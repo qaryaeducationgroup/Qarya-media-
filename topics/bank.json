@@ -1,0 +1,363 @@
+{
+ "updated": "2026-10-10",
+ "standard": "Every narrated claim needs 2 independent reputable sources. Legends are worded as legends. Use only the SAFE claims; never the DO NOT SAY versions.",
+ "topics": [
+  {
+   "id": "T01",
+   "title": "Why good hotels smell like that",
+   "angle": "Signature scents and why smell is tied to emotion and memory",
+   "verdict": "SOLID",
+   "status": "made",
+   "episode": "001-hotel-scent",
+   "safe": [
+    "Many hotels design a signature scent and diffuse it in the lobby.",
+    "Smell is the one sense that does not pass through the thalamus first; it reaches emotion and memory areas directly."
+   ],
+   "avoid": [
+    "Exact sales or loyalty uplift numbers from scent-marketing vendors."
+   ],
+   "sources": [
+    "How scent, emotion, and memory are intertwined — and exploited — Harvard Gazette (Feb 2020) — https://news.harvard.edu/gazette/story/2020/02/how-scent-emotion-and-memory-are-intertwined-and-exploited/",
+    "Why smells trigger memories — Cleveland Clinic — https://health.clevelandclinic.org/smells-and-memory",
+    "Connections between smell, memory and health — Harvard Medical School magazine (Apr 2024) — https://magazine.hms.harvard.edu/articles/connections-between-smell-memory-and-health"
+   ]
+  },
+  {
+   "id": "T02",
+   "title": "Why the goodbye matters",
+   "angle": "Peak-end rule: the 1993 cold-water experiment; endings can colour memory",
+   "verdict": "SOLID (experiment) / CAVEAT (hospitality angle)",
+   "status": "made",
+   "episode": "002-peak-end",
+   "safe": [
+    "1993 study (Kahneman, Fredrickson, Schreiber, Redelmeier): one hand in 14 °C water for 60 s; the other trial was 60 s plus 30 s while the water warmed to about 15 °C.",
+    "22 of 32 (69%) chose to repeat the longer trial.",
+    "Remembered pain tracks the peak and the end more than duration.",
+    "For hospitality say: endings CAN colour how we remember an experience."
+   ],
+   "avoid": [
+    "'People prefer more pain' as a blanket statement.",
+    "That check-out decides how guests remember a stay (a 2020 study of 691 Macau travellers found the average of all episodes predicted evaluations better).",
+    "Colonoscopy return-rate claims."
+   ],
+   "sources": [
+    "When More Pain Is Preferred to Less: Adding a Better End — Psychological Science 4(6), 1993 — https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.1993.tb00589.x/",
+    "Memories of colonoscopy: a randomized trial — Pain 104 (2003) — https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/redelmeier_et_al._2003_-_memories_of_colonoscopy.pdf",
+    "Chark, King & Tang (2020), Journal of Travel Research — https://research.polyu.edu.hk/en/publications/the-journey-from-episode-to-evaluation-how-travelers-arrive-at-su-2/"
+   ]
+  },
+  {
+   "id": "T03",
+   "title": "50 million moments of truth",
+   "angle": "Jan Carlzon (SAS): every 15-second contact is a moment of truth",
+   "verdict": "SOLID",
+   "status": "ready",
+   "safe": [
+    "Jan Carlzon led SAS in the 1980s; his book Moments of Truth (English 1987) translates Riv pyramiderna! (1985).",
+    "A moment of truth = any contact where a customer forms an impression of the company.",
+    "His figures: about 10 million customers a year, each meeting about 5 employees for about 15 seconds: about 50 million moments a year."
+   ],
+   "avoid": [
+    "'50 million a day'.",
+    "Exact CEO term dates (say 'in the 1980s').",
+    "Treating the 15 seconds as exact (it is his average)."
+   ],
+   "sources": [
+    "Jan Carlzon — Wikipedia — https://en.wikipedia.org/wiki/Jan_Carlzon",
+    "Table-Stakes Touchpoints — Forbes (Shep Hyken, 13 Oct 2024) — https://www.forbes.com/sites/shephyken/2024/10/13/table-stakes-touchpoints-powerful-strategy-that-can-define-the-success-of-your-business/",
+    "Managing Moments — IUP — https://www.iupindia.in/606/EE_Managing_Moments_38.html"
+   ]
+  },
+  {
+   "id": "T04",
+   "title": "Why the bill comes with a mint",
+   "angle": "Reciprocity: Strohmetz et al. 2002 mints-and-tips study",
+   "verdict": "SOLID (figures via secondary sources)",
+   "status": "ready",
+   "safe": [
+    "Strohmetz, Rind, Fisher & Lynn, 'Sweetening the Till', Journal of Applied Social Psychology 32(2), 2002.",
+    "Compared with no mint: one mint raised tips about 3%, two mints about 14%, and one mint plus a second offered as the server turned back about 23% (as reported by Cialdini).",
+    "The authors argue reciprocity explains it."
+   ],
+   "avoid": [
+    "'23 percentage points' (these are relative increases).",
+    "That mints work everywhere."
+   ],
+   "sources": [
+    "Sweetening the Till — JASP 2002 (Cornell eCommons) — https://ecommons.cornell.edu/items/49ee9efd-b182-49af-8346-a3c63391a552",
+    "NPR transcript, Robert Cialdini — https://www.npr.org/transcripts/93872977",
+    "Why It Works: Flat Iron — Marketing Week — https://www.marketingweek.com/why-it-works-flat-iron-steak/"
+   ]
+  },
+  {
+   "id": "T05",
+   "title": "The golden keys on a concierge's lapel",
+   "angle": "Les Clefs d'Or: founded in France 1929, international 1952",
+   "verdict": "SOLID (founding) / CAVEAT (symbolism)",
+   "status": "hold",
+   "safe": [
+    "The association says it was founded in France nationally in 1929 and internationally in 1952.",
+    "Pierre Quentin was its first president (1929); the first international meeting was on 25 April 1952 in Cannes.",
+    "Members wear crossed gold keys; the motto is 'Service through Friendship'.",
+    "Membership is selective: years of front-line hotel experience, sponsors and an interview; rules vary by country.",
+    "4,000+ members in 80+ countries (association, 2017)."
+   ],
+   "avoid": [
+    "Any meaning of the crossed keys (Saint Peter, 'opens any door').",
+    "That Gillet founded it in 1929.",
+    "A single global requirement."
+   ],
+   "sources": [
+    "History — UICH Les Clefs d'Or — https://www.lesclefsdor.org/about/history",
+    "Les Clefs d'Or in Cannes — CNN Travel — https://amp.cnn.com/cnn/travel/article/les-clefs-dor-cannes-concierges",
+    "Look for the Golden Key concierge — Executive Traveller — https://www.executivetraveller.com/make-the-impossible-possible-look-for-the-golden-key-hotel-concierge"
+   ],
+   "hold_reason": "File 05: The Golden Keys Society may be named only once the MOU is signed or they agree. Re-check file 05 before using."
+  },
+  {
+   "id": "T06",
+   "title": "The floor that isn't there",
+   "angle": "Missing 13th floor in the West, missing 4th floor in East Asia (and '3A' in Malaysia)",
+   "verdict": "SOLID (core) / CAVEAT (stats)",
+   "status": "ready",
+   "safe": [
+    "Many buildings skip a '13' label (12 to 14, or '12A'); nobody knows when the habit began.",
+    "Gallup 2007: 13% of Americans would be bothered by a 13th-floor hotel room; 9% would ask to move.",
+    "Hong Kong's government told its legislature in 2009 that skipping 4, 13, 14, 24, 34 and 44 is 'very common practice'; in Cantonese 'four' sounds like 'death'.",
+    "In Malaysia some developers label the 4th floor '3A' (valuer Ernest Cheong, StarProperty)."
+   ],
+   "avoid": [
+    "'85% of buildings skip 13' (an old Otis estimate).",
+    "That every Hong Kong tower skips 4.",
+    "Origin stories (Last Supper etc.)."
+   ],
+   "sources": [
+    "LCQ6: Floor numbering of buildings — HK Development Bureau (4 Nov 2009) — https://www.devb.gov.hk/en/sdev/press/index_id_5697.html",
+    "Thirteen Percent of Americans Bothered… — Gallup — https://news.gallup.com/poll/26887/thirteen-percent-americans-bothered-stay-hotels-13th-floor.aspx",
+    "Common taboos that affect properties — StarProperty — https://starproperty.my/news/common-taboos-that-affect-properties/7933"
+   ]
+  },
+  {
+   "id": "T07",
+   "title": "Why waiting feels longer than it is",
+   "angle": "David Maister's psychology of waiting (1985); the elevator-mirror story as a story",
+   "verdict": "SOLID / CAVEAT (mirror anecdote)",
+   "status": "ready",
+   "safe": [
+    "David Maister, 'The Psychology of Waiting Lines', in The Service Encounter (1985).",
+    "His first proposition: occupied time feels shorter than unoccupied time; unexplained, uncertain, unfair and solo waits feel longer.",
+    "The story goes that complaints about slow lifts fell after mirrors were installed, though the wait didn't change."
+   ],
+   "avoid": [
+    "That a study proved mirrors cut complaints.",
+    "That Maister listed 10 principles (he listed 8)."
+   ],
+   "sources": [
+    "The Psychology of Waiting Lines — David Maister — https://davidmaister.com/articles/1/52/",
+    "Managing the Psychology of Waiting — open textbook (Dixon) — https://uen.pressbooks.pub/opexintro/chapter/managing-the-psychology-of-waiting"
+   ]
+  },
+  {
+   "id": "T08",
+   "title": "Why airline food tastes bland",
+   "angle": "Cabin pressure dulls salt and sweet (Fraunhofer for Lufthansa); noise boosts umami",
+   "verdict": "CAVEAT",
+   "status": "ready",
+   "safe": [
+    "In a Fraunhofer Institute study for Lufthansa in a simulated low-pressure cabin, salt tasted 20–30% less intense and sugar 15–20% less.",
+    "Fraunhofer: in the air, food tastes as it does when we have a cold.",
+    "Cornell (2015): jet-level noise suppresses sweetness and enhances umami, one reason tomato juice is popular on planes."
+   ],
+   "avoid": [
+    "'30% for both salt and sweet'.",
+    "That humidity caused it.",
+    "That umami is unaffected by pressure."
+   ],
+   "sources": [
+    "A feast for research — Fraunhofer IBP — https://www.ibp.fraunhofer.de/en/press-media/research-in-focus/a-feast-for-research.html",
+    "Burdack-Freitag et al., J. Verbr. Lebensm. 6 — https://link.springer.com/article/10.1007/s00003-010-0630-y",
+    "On planes, savory tomato becomes favored flavor — Cornell Chronicle — https://www.news.cornell.edu/stories/2015/05/planes-savory-tomato-becomes-favored-flavor"
+   ]
+  },
+  {
+   "id": "T09",
+   "title": "Why the cabin lights dim for landing",
+   "angle": "Pre-adjusting eyes to the dark in case of evacuation; window shades up",
+   "verdict": "CAVEAT",
+   "status": "ready",
+   "safe": [
+    "Airlines dim cabin lights for take-off and landing so passengers' eyes are already adjusted to the dark if an evacuation is needed.",
+    "Window shades up follows the same logic (and lets crew see outside)."
+   ],
+   "avoid": [
+    "That it's an FAA (or any regulator) rule; it is airline procedure and varies.",
+    "A fixed adaptation time.",
+    "Power saving as the reason."
+   ],
+   "sources": [
+    "Why do the window blinds have to be open… — Schiphol — https://news.schiphol.com/why-do-the-window-blinds-have-to-be-open-for-take-off-and-landing/",
+    "Why airplanes dim cabin lights… — Afar — https://www.afar.com/magazine/why-airplanes-dim-cabin-lights-for-takeoff-and-landing"
+   ]
+  },
+  {
+   "id": "T10",
+   "title": "The folded triangle on hotel toilet paper",
+   "angle": "A signal that the bathroom was cleaned",
+   "verdict": "CAVEAT",
+   "status": "ready",
+   "safe": [
+    "The usual explanation: the fold shows the bathroom was cleaned and the roll hasn't been used since.",
+    "A Holiday Inns association executive said this in David Feldman's Imponderables (1989).",
+    "Nobody has documented where it started."
+   ],
+   "avoid": [
+    "'Fire fold' / 'hotel fold' as official names.",
+    "A specific inventor, chain or year."
+   ],
+   "sources": [
+    "Hotel toilet paper folding — Wikipedia — https://en.wikipedia.org/wiki/Hotel_toilet_paper_folding",
+    "Why do hotels fold toilet paper into a triangle — Mental Floss — https://www.mentalfloss.com/random-facts/why-do-hotels-fold-toilet-paper-triangle"
+   ]
+  },
+  {
+   "id": "T11",
+   "title": "Why chefs wear tall white hats",
+   "angle": "Carême's toque; height = rank; the 100-pleats legend",
+   "verdict": "CAVEAT",
+   "status": "ready",
+   "safe": [
+    "Marie-Antoine Carême (1784–1833) is credited with the modern white toque.",
+    "White is said to signal cleanliness; taller hats came to mark higher rank in the kitchen brigade.",
+    "The story goes that the pleats stand for 100 ways to cook an egg; there's no evidence for it."
+   ],
+   "avoid": [
+    "The egg legend as fact.",
+    "Ancient origin stories as fact."
+   ],
+   "sources": [
+    "Do the Folds in a Chef's Hat Represent… — Snopes — https://www.snopes.com/articles/435023/folds-chefs-hat-eggs/",
+    "The chef's hat through the ages — Alimentarium — https://www.alimentarium.org/en/story/chefs-hat-through-ages"
+   ]
+  },
+  {
+   "id": "T12",
+   "title": "Why hotel beds are always white",
+   "angle": "Westin's 1999 Heavenly Bed and the 'bed wars'; white reads as clean and can be bleached",
+   "verdict": "CAVEAT",
+   "status": "ready",
+   "safe": [
+    "Westin launched its all-white Heavenly Bed in 1999; rivals upgraded their beds in what the press called the 'bed wars'.",
+    "Hotels favour white because it shows it's clean and can be washed hot and bleached (practitioner explanations)."
+   ],
+   "avoid": [
+    "That Westin invented white hotel linen.",
+    "Presenting the white-linen reasons as research findings."
+   ],
+   "sources": [
+    "Sternlicht: the industry thought we were nuts… — Hotel Online — https://www.hotel-online.com/news/barry-sternlicht-the-hotel-industry-thought-we-were-nuts-when-we-introduced-this-fluffy-all-white-bed-five-years-later-westin-has-sold-almost-4000-heavenly-beds-and-30000-sheets-and-pillows-au/",
+    "NBC News on the bed wars — https://www.nbcnews.com/id/wbna4097055",
+    "Why hotels use white sheets — Islands — https://www.islands.com/2146792/why-hotels-use-white-sheets-for-bed-explained/"
+   ]
+  },
+  {
+   "id": "T13",
+   "title": "Why check-in is at 3 PM",
+   "angle": "The gap is housekeeping time: strip, clean, inspect",
+   "verdict": "CAVEAT",
+   "status": "ready",
+   "safe": [
+    "In North America check-in is typically 3–4 PM and check-out around 11 AM; elsewhere it varies.",
+    "The usual reason is housekeeping: the room must be vacated, stripped, cleaned and inspected (Gary Vallen, co-author of the textbook Check-In Check-Out, in the Washington Post)."
+   ],
+   "avoid": [
+    "That it's a law or standard.",
+    "Exact turnaround minutes.",
+    "Noon as the global norm."
+   ],
+   "sources": [
+    "Want to check in to your hotel early? Good luck. — Washington Post via Hospitality Net — https://www.hospitalitynet.org/external/4112580.html",
+    "Hotel check-in/check-out times — InsideHook — https://www.insidehook.com/travel/hotel-check-check-out-times"
+   ]
+  },
+  {
+   "id": "T14",
+   "title": "Why some menus drop the 'RM'",
+   "angle": "Cornell/CIA menu-format experiment (2009): plain numerals vs currency",
+   "verdict": "CAVEAT",
+   "status": "ready",
+   "safe": [
+    "In a Cornell and Culinary Institute of America experiment (published 2009), 201 tables got one of three menus.",
+    "Tables with plain numbers ('14') spent about 8% more than with '$14.00' or 'fourteen dollars'.",
+    "It was one restaurant; researchers call it a modest, low-cost tweak."
+   ],
+   "avoid": [
+    "That removing the symbol always raises spending.",
+    "A dollar figure."
+   ],
+   "sources": [
+    "Diners spend more when menus don't use dollar signs — Cornell Chronicle — https://news.cornell.edu/node/273666",
+    "Cornell Hospitality Report (Kimes) — https://ecommons.cornell.edu/bitstream/1813/72131/1/Kimes14_Menu_price.pdf"
+   ]
+  },
+  {
+   "id": "T15",
+   "title": "The $2,000 rule",
+   "angle": "Ritz-Carlton empowered every employee to spend up to $2,000 to fix a guest problem",
+   "verdict": "CAVEAT",
+   "status": "ready",
+   "safe": [
+    "Founding president Horst Schulze says every employee was empowered to spend up to $2,000 to resolve a guest problem.",
+    "He adds that almost nobody spent anywhere near that; fixes were small, like a breakfast.",
+    "A Ritz-Carlton training VP said the same in 2002."
+   ],
+   "avoid": [
+    "'Per guest, per incident' wording.",
+    "That it is current official policy.",
+    "That staff regularly spend it."
+   ],
+   "sources": [
+    "Horst Schulze on his Ritz-Carlton book — Knowledge@Wharton — https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/horst-schulze-ritz-carlton-book/",
+    "Owning the complaint — JLC (2002) — https://www.jlconline.com/Remodeling/owning-the-complaint/"
+   ]
+  },
+  {
+   "id": "T16",
+   "title": "When a mistake makes a guest happier",
+   "angle": "Service recovery paradox: real but small and unreliable",
+   "verdict": "CAVEAT",
+   "status": "ready",
+   "safe": [
+    "McCollough & Bharadwaj (1992) named the service recovery paradox: a problem fixed very well can leave a customer as satisfied as before, or more.",
+    "A 2007 meta-analysis of 21 studies found a small positive effect on satisfaction but none on repurchase or word of mouth."
+   ],
+   "avoid": [
+    "'Guests become more loyal after a good fix.'",
+    "That businesses should cause problems."
+   ],
+   "sources": [
+    "Service recovery paradox — Wikipedia — https://en.wikipedia.org/wiki/Service_recovery_paradox",
+    "McCollough, Berry & Yadav (2000), J. Service Research — https://studysites.uk.sagepub.com/clow/study/articles/PDFs/14_McCollough.pdf"
+   ]
+  },
+  {
+   "id": "T17",
+   "title": "The 10-and-5 rule",
+   "angle": "Eye contact at 10 feet, greeting at 5 feet",
+   "verdict": "HOLD",
+   "status": "hold",
+   "safe": [
+    "Hospitality trainers describe a '10 and 5' guideline: smile and eye contact at about 10 feet, a greeting at about 5 feet."
+   ],
+   "avoid": [
+    "Any origin (Ritz-Carlton, Disney, Walmart) — none is documented."
+   ],
+   "sources": [
+    "What is the 10 and 5 rule in hotels? — UCF — https://www.ucf.edu/question/what-is-the-10-and-5-rule-in-hotels/"
+   ]
+  }
+ ],
+ "red_lines_extra": [
+  "Never name The Golden Keys Society / Les Clefs d'Or or Four Seasons until file 05 says OK.",
+  "Other hotel/airline brands only as part of a documented fact, never as partners or in a negative light."
+ ]
+}

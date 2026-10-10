@@ -1,0 +1,449 @@
+{
+ "id": "002-peak-end",
+ "title": "Why the goodbye matters",
+ "series": "HOSPITALITY 101",
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ },
+ "scenes": [
+  {
+   "label": "THE ENDING EFFECT",
+   "lines": [
+    [
+     "Most people will choose more pain,",
+     "Most people will choose\n*more pain,*",
+     0.35
+    ],
+    [
+     "if it ends better.",
+     "if it *ends better.*",
+     0.8
+    ]
+   ],
+   "elements": [
+    {
+     "el": "particles",
+     "kind": "snow",
+     "n": 46,
+     "at": 0
+    },
+    {
+     "el": "icon",
+     "name": "Cold face",
+     "x": 540,
+     "y": 880,
+     "size": 430,
+     "at": 0.15,
+     "out": "better-0.15"
+    },
+    {
+     "el": "icon",
+     "name": "Relieved face",
+     "x": 540,
+     "y": 880,
+     "size": 430,
+     "at": "better",
+     "anim": "pop"
+    },
+    {
+     "el": "burst",
+     "x": 540,
+     "y": 880,
+     "r": 300,
+     "at": "better"
+    }
+   ],
+   "camera": {
+    "push": 0.05,
+    "cy": 900
+   }
+  },
+  {
+   "label": "THE 1993 EXPERIMENT",
+   "lines": [
+    [
+     "In a nineteen ninety-three study, volunteers put one hand in cold water,",
+     "In a *1993* study, volunteers put\none hand in *cold water,*",
+     0.2
+    ],
+    [
+     "fourteen degrees, for sixty seconds.",
+     "*14 °C*, for *60 seconds.*",
+     0.6
+    ],
+    [
+     "The other trial was the same sixty seconds,",
+     "The other trial: the same *60 seconds,*",
+     0.15
+    ],
+    [
+     "plus thirty more, as the water warmed slightly.",
+     "plus *30 more,* as the water\nwarmed slightly.",
+     0.3
+    ],
+    [
+     "Still cold. Just a little less.",
+     "Still cold. Just a *little less.*",
+     0.7
+    ]
+   ],
+   "elements": [
+    {
+     "el": "text",
+     "t": "1993",
+     "size": 230,
+     "color": "goldhi",
+     "x": 540,
+     "y": 900,
+     "at": 0.25,
+     "out": "volunteers-0.25",
+     "anim": "pop"
+    },
+    {
+     "el": "panel",
+     "x": 300,
+     "y": 900,
+     "w": 420,
+     "h": 640,
+     "at": "volunteers-0.1",
+     "dim_at": "L2"
+    },
+    {
+     "el": "text",
+     "t": "TRIAL A",
+     "font": "monob",
+     "size": 34,
+     "color": "goldhi",
+     "x": 300,
+     "y": 640,
+     "at": "volunteers",
+     "tracking": 4
+    },
+    {
+     "el": "icon",
+     "name": "Ice",
+     "x": 300,
+     "y": 815,
+     "size": 210,
+     "at": "hand",
+     "glow": false
+    },
+    {
+     "el": "text",
+     "t": "60 sec",
+     "size": 92,
+     "x": 300,
+     "y": 1010,
+     "at": "sixty"
+    },
+    {
+     "el": "text",
+     "t": "14 °C",
+     "font": "monob",
+     "size": 50,
+     "color": "sky",
+     "x": 300,
+     "y": 1120,
+     "at": "fourteen"
+    },
+    {
+     "el": "panel",
+     "x": 780,
+     "y": 900,
+     "w": 420,
+     "h": 640,
+     "at": "L2"
+    },
+    {
+     "el": "text",
+     "t": "TRIAL B",
+     "font": "monob",
+     "size": 34,
+     "color": "goldhi",
+     "x": 780,
+     "y": 640,
+     "at": "L2+0.1",
+     "tracking": 4
+    },
+    {
+     "el": "icon",
+     "name": "Stopwatch",
+     "x": 780,
+     "y": 815,
+     "size": 210,
+     "at": "other",
+     "glow": false
+    },
+    {
+     "el": "text",
+     "t": "60 *+ 30* sec",
+     "size": 92,
+     "x": 780,
+     "y": 1010,
+     "at": "thirty",
+     "max_w": 390
+    },
+    {
+     "el": "text",
+     "t": "14 → *15* °C",
+     "font": "monob",
+     "size": 50,
+     "color": "sky",
+     "x": 780,
+     "y": 1120,
+     "at": "warmed"
+    }
+   ],
+   "camera": {
+    "push": 0.03,
+    "cy": 900
+   }
+  },
+  {
+   "label": "THE RESULT",
+   "lines": [
+    [
+     "When asked which one to repeat,",
+     "Asked which one to *repeat,*",
+     0.2
+    ],
+    [
+     "twenty-two out of thirty-two chose the longer one.",
+     "*22 out of 32* chose\nthe *longer* one.",
+     0.85
+    ]
+   ],
+   "elements": [
+    {
+     "el": "dots",
+     "n": 32,
+     "cols": 8,
+     "gap": 84,
+     "r": 22,
+     "x": 540,
+     "y": 840,
+     "at": 0.15,
+     "hl": 22,
+     "hl_at": "twenty",
+     "hl_dur": 1.3
+    },
+    {
+     "el": "text",
+     "t": "*22* of 32",
+     "size": 120,
+     "x": 540,
+     "y": 1150,
+     "at": "chose"
+    },
+    {
+     "el": "text",
+     "t": "CHOSE TRIAL B",
+     "font": "mono",
+     "size": 30,
+     "color": "cream",
+     "tracking": 5,
+     "x": 540,
+     "y": 1250,
+     "at": "chose+0.25"
+    }
+   ],
+   "sfx": [
+    {
+     "type": "boom",
+     "at": "chose"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 950
+   }
+  },
+  {
+   "label": "WHY IT HAPPENS",
+   "lines": [
+    [
+     "Our memory doesn't add up every second.",
+     "Memory doesn't add up\n*every second.*",
+     0.3
+    ],
+    [
+     "It leans on two moments: the peak, and the end.",
+     "It leans on two moments:\nthe *peak* and the *end.*",
+     0.45
+    ],
+    [
+     "Psychologists call it the peak-end rule.",
+     "It's called the *peak-end rule.*",
+     0.85
+    ]
+   ],
+   "elements": [
+    {
+     "el": "curve",
+     "box": [
+      180,
+      650,
+      900,
+      1110
+     ],
+     "at": 0.2,
+     "dur": 2.6,
+     "color": "rose",
+     "xlabel": "TIME",
+     "ylabel": "FEELING",
+     "pts": [
+      [
+       0,
+       0.18
+      ],
+      [
+       0.12,
+       0.34
+      ],
+      [
+       0.24,
+       0.72
+      ],
+      [
+       0.34,
+       0.95
+      ],
+      [
+       0.46,
+       0.58
+      ],
+      [
+       0.6,
+       0.46
+      ],
+      [
+       0.72,
+       0.6
+      ],
+      [
+       0.86,
+       0.42
+      ],
+      [
+       1.0,
+       0.26
+      ]
+     ],
+     "markers": [
+      {
+       "u": 0.34,
+       "label": "PEAK",
+       "color": "rose",
+       "at": "peak"
+      },
+      {
+       "u": 1.0,
+       "label": "END",
+       "color": "goldhi",
+       "at": "end"
+      }
+     ]
+    },
+    {
+     "el": "text",
+     "t": "the *peak-end* rule",
+     "size": 92,
+     "x": 540,
+     "y": 1250,
+     "at": "rule-0.35",
+     "anim": "pop"
+    }
+   ],
+   "camera": {
+    "push": 0.035,
+    "cy": 920
+   }
+  },
+  {
+   "label": "IN HOSPITALITY",
+   "lines": [
+    [
+     "In hospitality, that matters.",
+     "In hospitality, that *matters.*",
+     0.3
+    ],
+    [
+     "A warm goodbye can colour the memory of the whole stay.",
+     "A warm *goodbye* can colour\nthe memory of the *whole stay.*",
+     0.5
+    ],
+    [
+     "So never treat the ending as an afterthought.",
+     "Never treat the ending\nas an *afterthought.*",
+     1.0
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Hotel",
+     "x": 540,
+     "y": 830,
+     "size": 330,
+     "at": 0.15,
+     "out": "goodbye-0.25"
+    },
+    {
+     "el": "icon",
+     "name": "Luggage",
+     "x": 360,
+     "y": 860,
+     "size": 280,
+     "at": "goodbye-0.1"
+    },
+    {
+     "el": "icon",
+     "name": "Waving hand",
+     "x": 730,
+     "y": 820,
+     "size": 300,
+     "at": "goodbye+0.1",
+     "wobble": 7
+    },
+    {
+     "el": "particles",
+     "kind": "sparkle",
+     "n": 36,
+     "at": "whole-0.2"
+    },
+    {
+     "el": "icon",
+     "name": "Red heart",
+     "x": 545,
+     "y": 640,
+     "size": 150,
+     "at": "memory",
+     "glow": "rose"
+    },
+    {
+     "el": "text",
+     "t": "Endings *matter.*",
+     "size": 104,
+     "x": 540,
+     "y": 1200,
+     "at": "never"
+    }
+   ],
+   "camera": {
+    "push": 0.045,
+    "cy": 900
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Follow Qarya, for more hospitality literacy.",
+     "Follow Qarya for more\n*Hospitality Literacy.*",
+     2.2
+    ]
+   ]
+  }
+ ]
+}

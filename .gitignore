@@ -1,0 +1,4 @@
+__pycache__/
+episodes/*/build/
+episodes/*/out/
+*.pyc
