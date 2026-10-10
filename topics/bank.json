@@ -51,7 +51,7 @@
    "title": "50 million moments of truth",
    "angle": "Jan Carlzon (SAS): every 15-second contact is a moment of truth",
    "verdict": "SOLID",
-   "status": "ready",
+   "status": "made",
    "safe": [
     "Jan Carlzon led SAS in the 1980s; his book Moments of Truth (English 1987) translates Riv pyramiderna! (1985).",
     "A moment of truth = any contact where a customer forms an impression of the company.",
@@ -66,7 +66,8 @@
     "Jan Carlzon — Wikipedia — https://en.wikipedia.org/wiki/Jan_Carlzon",
     "Table-Stakes Touchpoints — Forbes (Shep Hyken, 13 Oct 2024) — https://www.forbes.com/sites/shephyken/2024/10/13/table-stakes-touchpoints-powerful-strategy-that-can-define-the-success-of-your-business/",
     "Managing Moments — IUP — https://www.iupindia.in/606/EE_Managing_Moments_38.html"
-   ]
+   ],
+   "episode": "003-moments-of-truth"
   },
   {
    "id": "T04",

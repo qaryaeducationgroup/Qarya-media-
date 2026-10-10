@@ -239,6 +239,10 @@ class Text(El):
             return
         p = self.p
         x, y, s = p['x'], p['y'], 1.0
+        if p.get('anchor') == 'left':      # x is the left edge instead of the centre
+            x += self.sprite.width / 2 - 12
+        elif p.get('anchor') == 'right':
+            x -= self.sprite.width / 2 - 12
         anim = p.get('anim', 'rise')
         if anim == 'rise':
             y += 26 * (1 - eout(t / 0.5))

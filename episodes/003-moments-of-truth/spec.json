@@ -1,0 +1,366 @@
+{
+ "id": "003-moments-of-truth",
+ "title": "50 million moments of truth",
+ "series": "HOSPITALITY 101",
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ },
+ "scenes": [
+  {
+   "label": "MOMENTS OF TRUTH",
+   "lines": [
+    [
+     "One airline boss counted fifty million moments a year,",
+     "One airline boss counted\n*50 million moments* a year,",
+     0.25
+    ],
+    [
+     "that decided whether his company would succeed or fail.",
+     "that decided if his company\nwould *succeed or fail.*",
+     0.7
+    ]
+   ],
+   "elements": [
+    {
+     "el": "particles",
+     "kind": "dust",
+     "n": 40,
+     "at": 0
+    },
+    {
+     "el": "icon",
+     "name": "Airplane",
+     "x": 540,
+     "y": 790,
+     "size": 360,
+     "at": 0.1,
+     "anim": "rise",
+     "rot": -8
+    },
+    {
+     "el": "number",
+     "value": 50000000,
+     "x": 540,
+     "y": 1130,
+     "size": 128,
+     "at": "fifty",
+     "dur": 1.3
+    },
+    {
+     "el": "text",
+     "t": "MOMENTS A YEAR",
+     "font": "mono",
+     "size": 32,
+     "tracking": 5,
+     "x": 540,
+     "y": 1235,
+     "at": "moments"
+    }
+   ],
+   "camera": {
+    "push": 0.05,
+    "cy": 920
+   }
+  },
+  {
+   "label": "SAS · THE 1980s",
+   "lines": [
+    [
+     "In the nineteen-eighties, Jan Carlzon ran Scandinavian Airlines.",
+     "In the *1980s*, Jan Carlzon\nran *Scandinavian Airlines.*",
+     0.3
+    ],
+    [
+     "He called every contact with a customer a moment of truth.",
+     "He called every customer contact\na *moment of truth.*",
+     0.7
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Necktie",
+     "x": 540,
+     "y": 760,
+     "size": 250,
+     "at": 0.15
+    },
+    {
+     "el": "text",
+     "t": "Jan Carlzon",
+     "size": 104,
+     "x": 540,
+     "y": 990,
+     "at": "Carlzon"
+    },
+    {
+     "el": "text",
+     "t": "SCANDINAVIAN AIRLINES · 1980s",
+     "font": "mono",
+     "size": 30,
+     "tracking": 3,
+     "x": 540,
+     "y": 1075,
+     "at": "Scandinavian",
+     "color": "goldhi"
+    },
+    {
+     "el": "text",
+     "t": "“a moment of truth”",
+     "font": "serif_i",
+     "size": 84,
+     "x": 540,
+     "y": 1225,
+     "at": "moment",
+     "anim": "pop",
+     "color": "goldhi"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 930
+   }
+  },
+  {
+   "label": "THE MATHS",
+   "lines": [
+    [
+     "About ten million customers a year,",
+     "About *10 million* customers a year,",
+     0.15
+    ],
+    [
+     "each meeting about five employees,",
+     "each meeting about *5* employees,",
+     0.15
+    ],
+    [
+     "for about fifteen seconds at a time.",
+     "for about *15 seconds* at a time.",
+     0.4
+    ],
+    [
+     "That's fifty million moments of truth, every year.",
+     "That's *50 million*\nmoments of truth, every year.",
+     0.8
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Admission tickets",
+     "x": 230,
+     "y": 680,
+     "size": 150,
+     "at": "ten",
+     "glow": false
+    },
+    {
+     "el": "text",
+     "t": "*10 million* customers",
+     "font": "sansb",
+     "size": 54,
+     "x": 340,
+     "y": 680,
+     "at": "ten",
+     "max_w": 600,
+     "anchor": "left"
+    },
+    {
+     "el": "icon",
+     "name": "Identification card",
+     "x": 230,
+     "y": 850,
+     "size": 150,
+     "at": "five",
+     "glow": false
+    },
+    {
+     "el": "text",
+     "t": "× *5* staff each",
+     "font": "sansb",
+     "size": 54,
+     "x": 340,
+     "y": 850,
+     "at": "five",
+     "max_w": 600,
+     "anchor": "left"
+    },
+    {
+     "el": "icon",
+     "name": "Stopwatch",
+     "x": 230,
+     "y": 1020,
+     "size": 150,
+     "at": "fifteen",
+     "glow": false
+    },
+    {
+     "el": "text",
+     "t": "× *15* seconds",
+     "font": "sansb",
+     "size": 54,
+     "x": 340,
+     "y": 1020,
+     "at": "fifteen",
+     "max_w": 600,
+     "anchor": "left"
+    },
+    {
+     "el": "text",
+     "t": "= *50 million* a year",
+     "size": 96,
+     "x": 540,
+     "y": 1225,
+     "at": "fifty",
+     "anim": "pop"
+    }
+   ],
+   "sfx": [
+    {
+     "type": "boom",
+     "at": "fifty"
+    }
+   ],
+   "camera": {
+    "push": 0.03,
+    "cy": 940
+   }
+  },
+  {
+   "label": "WHY IT MATTERS",
+   "lines": [
+    [
+     "In each one, the customer decides what the company is really like.",
+     "In each one, the customer decides\nwhat the company is *really like.*",
+     0.7
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Thinking face",
+     "x": 540,
+     "y": 840,
+     "size": 380,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Magnifying glass tilted left",
+     "x": 730,
+     "y": 1010,
+     "size": 200,
+     "at": "decides",
+     "glow": false,
+     "rot": 6
+    }
+   ],
+   "camera": {
+    "push": 0.05,
+    "cy": 900
+   }
+  },
+  {
+   "label": "IN HOSPITALITY",
+   "lines": [
+    [
+     "In a hotel, it's the greeting at the door,",
+     "In a hotel, it's the\n*greeting* at the door,",
+     0.1
+    ],
+    [
+     "the call to housekeeping, the goodbye at check-out.",
+     "the call to *housekeeping*,\nthe goodbye at *check-out.*",
+     0.4
+    ],
+    [
+     "Fifteen seconds, done well, again and again.",
+     "*15 seconds*, done well,\nagain and again.",
+     1.0
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Door",
+     "x": 230,
+     "y": 830,
+     "size": 220,
+     "at": "hotel"
+    },
+    {
+     "el": "text",
+     "t": "THE DOOR",
+     "font": "mono",
+     "size": 28,
+     "tracking": 4,
+     "x": 230,
+     "y": 1010,
+     "at": "hotel+0.2"
+    },
+    {
+     "el": "icon",
+     "name": "Telephone",
+     "x": 540,
+     "y": 830,
+     "size": 220,
+     "at": "housekeeping"
+    },
+    {
+     "el": "text",
+     "t": "THE CALL",
+     "font": "mono",
+     "size": 28,
+     "tracking": 4,
+     "x": 540,
+     "y": 1010,
+     "at": "housekeeping+0.2"
+    },
+    {
+     "el": "icon",
+     "name": "Waving hand",
+     "x": 850,
+     "y": 830,
+     "size": 220,
+     "at": "goodbye",
+     "wobble": 7
+    },
+    {
+     "el": "text",
+     "t": "THE GOODBYE",
+     "font": "mono",
+     "size": 28,
+     "tracking": 4,
+     "x": 850,
+     "y": 1010,
+     "at": "goodbye+0.2"
+    },
+    {
+     "el": "text",
+     "t": "Every moment *counts.*",
+     "size": 100,
+     "x": 540,
+     "y": 1210,
+     "at": "L2"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Follow Qarya, for more hospitality literacy.",
+     "Follow Qarya for more\n*Hospitality Literacy.*",
+     2.2
+    ]
+   ]
+  }
+ ],
+ "cover_t": 4.2
+}
