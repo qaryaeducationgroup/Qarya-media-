@@ -4,7 +4,8 @@
 usage: python3 kit/publish.py episodes/<id>/out/<file>.mp4 [more files...]
 prints: the raw.githubusercontent.com URL of each file
 
-The media branch only holds recent files. When it passes ~400 MB it is rebuilt as a fresh
+Metricool copies the media to its own storage when a post is created, so a file only has to be
+on the media branch at scheduling time. The media branch only holds recent files. When it passes ~400 MB it is rebuilt as a fresh
 single commit with only the files changed in the last 21 days (old posts are already on the networks).
 """
 import os, sys, re, shutil, subprocess, time
@@ -92,6 +93,12 @@ def main(files):
     if size_mb() > 400:
         prune()
     o, r = owner_repo()
+    try:   # canonical capitalisation (e.g. Qarya-media-) for the public URL
+        full = subprocess.run(['gh', 'api', f'repos/{o}/{r}', '--jq', '.full_name'], capture_output=True, text=True).stdout.strip()
+        if '/' in full:
+            o, r = full.split('/', 1)
+    except Exception:
+        pass
     for f in files:
         print(f'https://raw.githubusercontent.com/{o}/{r}/{BR}/{os.path.basename(f)}')
 

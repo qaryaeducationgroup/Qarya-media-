@@ -1,5 +1,7 @@
 # Weekly run: QEG explainer reels
 
+Repository: github.com/qaryaeducationgroup/Qarya-media- (note the capital Q and the trailing dash). Explainer slots are the plan rows with Format "Explainer reel (auto)" (Tue and Fri 18:00).
+
 Two fact-checked explainer Reels a week for Qarya (QEG), posted **Tuesday and Friday at 18:00 Malaysia time**
 on Instagram, Facebook and TikTok. Solomon approved these to publish **without** the Monday approval
 (Drive "QEG Brand Brain" → "11 — Explainer reels (rules & topic bank)"). Work through it without asking questions.
@@ -76,7 +78,7 @@ confirm the files exist with `gh api repos/<owner>/<repo>/contents/<file>?ref=me
 - providers: instagram + facebook + tiktok
 - `instagramData: {type: "REEL", showReelOnFeed: true, isAiGenerated: true}`
 - `facebookData: {type: "REEL"}`
-- `tiktokData: {privacyOption: "PUBLIC_TO_EVERYONE", isAigc: true}`
+- `tiktokData: {privacyOption: "PUBLIC_TO_EVERYONE", isAigc: true, title: "<the episode title>"}` (Metricool rejects TikTok posts without a title)
 - media: the mp4 URL; `videoThumbnailUrl`: the cover URL
 - text: `caption.md`
 

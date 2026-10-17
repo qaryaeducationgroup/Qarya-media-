@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10",
+ "updated": "2026-10-17",
  "standard": "Every narrated claim needs 2 independent reputable sources. Legends are worded as legends. Use only the SAFE claims; never the DO NOT SAY versions.",
  "topics": [
   {
@@ -7,7 +7,7 @@
    "title": "Why good hotels smell like that",
    "angle": "Signature scents and why smell is tied to emotion and memory",
    "verdict": "SOLID",
-   "status": "made",
+   "status": "posted",
    "episode": "001-hotel-scent",
    "safe": [
     "Many hotels design a signature scent and diffuse it in the lobby.",
@@ -20,14 +20,15 @@
     "How scent, emotion, and memory are intertwined — and exploited — Harvard Gazette (Feb 2020) — https://news.harvard.edu/gazette/story/2020/02/how-scent-emotion-and-memory-are-intertwined-and-exploited/",
     "Why smells trigger memories — Cleveland Clinic — https://health.clevelandclinic.org/smells-and-memory",
     "Connections between smell, memory and health — Harvard Medical School magazine (Apr 2024) — https://magazine.hms.harvard.edu/articles/connections-between-smell-memory-and-health"
-   ]
+   ],
+   "slot": "2026-10-10 (posted by hand)"
   },
   {
    "id": "T02",
    "title": "Why the goodbye matters",
    "angle": "Peak-end rule: the 1993 cold-water experiment; endings can colour memory",
    "verdict": "SOLID (experiment) / CAVEAT (hospitality angle)",
-   "status": "made",
+   "status": "scheduled",
    "episode": "002-peak-end",
    "safe": [
     "1993 study (Kahneman, Fredrickson, Schreiber, Redelmeier): one hand in 14 °C water for 60 s; the other trial was 60 s plus 30 s while the water warmed to about 15 °C.",
@@ -44,14 +45,15 @@
     "When More Pain Is Preferred to Less: Adding a Better End — Psychological Science 4(6), 1993 — https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.1993.tb00589.x/",
     "Memories of colonoscopy: a randomized trial — Pain 104 (2003) — https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/redelmeier_et_al._2003_-_memories_of_colonoscopy.pdf",
     "Chark, King & Tang (2020), Journal of Travel Research — https://research.polyu.edu.hk/en/publications/the-journey-from-episode-to-evaluation-how-travelers-arrive-at-su-2/"
-   ]
+   ],
+   "slot": "2026-10-17 18:00"
   },
   {
    "id": "T03",
    "title": "50 million moments of truth",
    "angle": "Jan Carlzon (SAS): every 15-second contact is a moment of truth",
    "verdict": "SOLID",
-   "status": "made",
+   "status": "scheduled",
    "safe": [
     "Jan Carlzon led SAS in the 1980s; his book Moments of Truth (English 1987) translates Riv pyramiderna! (1985).",
     "A moment of truth = any contact where a customer forms an impression of the company.",
@@ -67,7 +69,8 @@
     "Table-Stakes Touchpoints — Forbes (Shep Hyken, 13 Oct 2024) — https://www.forbes.com/sites/shephyken/2024/10/13/table-stakes-touchpoints-powerful-strategy-that-can-define-the-success-of-your-business/",
     "Managing Moments — IUP — https://www.iupindia.in/606/EE_Managing_Moments_38.html"
    ],
-   "episode": "003-moments-of-truth"
+   "episode": "003-moments-of-truth",
+   "slot": "2026-10-20 18:00 (QEG-0156)"
   },
   {
    "id": "T04",
