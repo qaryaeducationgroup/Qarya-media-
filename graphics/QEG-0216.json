@@ -1,0 +1,54 @@
+{
+ "id": "QEG-0216",
+ "suffix": "-v2",
+ "slides": [
+  {
+   "kicker": "Quiz",
+   "head": "Guess the department: *5 hotel tasks, 4 departments.*",
+   "hsize": "m",
+   "body": "Front Office · F&B Service · Culinary · Housekeeping"
+  },
+  {
+   "kicker": "Task 1",
+   "icon": "Key",
+   "head": "Checking a guest in and handing over the *key card.*",
+   "hsize": "m",
+   "after": "Answer on the next slide →"
+  },
+  {
+   "answer": "✓ FRONT OFFICE",
+   "kicker": "Task 2",
+   "icon": "Fork and knife with plate",
+   "head": "Preparing and *plating dishes* for service.",
+   "hsize": "m"
+  },
+  {
+   "answer": "✓ CULINARY",
+   "kicker": "Task 3",
+   "icon": "Bed",
+   "head": "Making up a guest room with *fresh linen.*",
+   "hsize": "m"
+  },
+  {
+   "answer": "✓ HOUSEKEEPING",
+   "kicker": "Task 4",
+   "icon": "Memo",
+   "head": "Taking orders and *serving guests* at the table.",
+   "hsize": "m"
+  },
+  {
+   "answer": "✓ F&B SERVICE",
+   "kicker": "Task 5",
+   "icon": "Telephone",
+   "head": "Booking a guest a table at a *restaurant in town.*",
+   "hsize": "m"
+  },
+  {
+   "answer": "✓ FRONT OFFICE",
+   "head": "The *concierge desk* sits inside Front Office.",
+   "hsize": "m",
+   "body": "Which one is you?",
+   "wa": "Q216"
+  }
+ ]
+}

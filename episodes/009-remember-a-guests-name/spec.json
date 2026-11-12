@@ -1,0 +1,225 @@
+{
+ "title": "Remember a guests name",
+ "series": "GUEST SERVICE · SKILL SNACK",
+ "post": "QEG-0217",
+ "cover_t": 2.2,
+ "scenes": [
+  {
+   "label": "NAMES",
+   "lines": [
+    [
+     "Remember a guest's name, with three habits.",
+     "Remember a guest's *name:*\n*3 habits.*",
+     0.3
+    ],
+    [
+     "Here's how to make it stick.",
+     "Here's how to\nmake it *stick.*",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Label",
+     "x": 540,
+     "y": 780,
+     "size": 320,
+     "at": 0.1,
+     "rot": -8
+    },
+    {
+     "el": "text",
+     "t": "Ms Lee",
+     "x": 540,
+     "y": 1090,
+     "size": 100,
+     "at": "name",
+     "font": "serif_i"
+    },
+    {
+     "el": "text",
+     "t": "EXAMPLE GUEST",
+     "x": 540,
+     "y": 1190,
+     "size": 24,
+     "at": "name+0.3",
+     "font": "mono",
+     "tracking": 4,
+     "color": "goldhi"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "HABIT 1",
+   "lines": [
+    [
+     "One. Say it back when you hear it.",
+     "*1* · Say it back\nwhen you *hear it.*",
+     0.2
+    ],
+    [
+     "Welcome, Ms Lee.",
+     "“Welcome, *Ms Lee.*”",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Speech balloon",
+     "x": 540,
+     "y": 800,
+     "size": 300,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "“Welcome, *Ms Lee.*”",
+     "x": 540,
+     "y": 1100,
+     "size": 84,
+     "at": "Welcome",
+     "font": "serif_i"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "HABIT 2",
+   "lines": [
+    [
+     "Two. Use it naturally, but not in every sentence.",
+     "*2* · Use it *naturally,*\nnot in every sentence.",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Left speech bubble",
+     "x": 300,
+     "y": 820,
+     "size": 220,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Speech balloon",
+     "x": 780,
+     "y": 820,
+     "size": 220,
+     "at": "naturally"
+    },
+    {
+     "el": "text",
+     "t": "Natural, *not every line*",
+     "x": 540,
+     "y": 1100,
+     "size": 72,
+     "at": "sentence"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "HABIT 3",
+   "lines": [
+    [
+     "Three. Note it where your team can see it, so the next person can use it too.",
+     "*3* · Note it where your\n*team* can see it.",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Spiral notepad",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "SHARED WITH THE TEAM",
+     "x": 540,
+     "y": 1100,
+     "size": 30,
+     "at": "team",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "WHY",
+   "lines": [
+    [
+     "A name tells a guest: we noticed you.",
+     "A name says:\n*we noticed you.*",
+     0.4
+    ],
+    [
+     "It's one of the simplest ways to make a stay feel personal.",
+     "One of the simplest ways to\nmake a stay feel *personal.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Glowing star",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1,
+     "glow": true
+    },
+    {
+     "el": "text",
+     "t": "*We noticed you.*",
+     "x": 540,
+     "y": 1120,
+     "size": 96,
+     "at": "noticed"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Want to learn guest service? WhatsApp oh one nine, eight six two, six seven oh four, and type Q two one seven.",
+     "",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q217",
+   "cta_size": 34
+  }
+ ],
+ "id": "009-remember-a-guests-name",
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ }
+}

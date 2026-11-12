@@ -1,0 +1,291 @@
+{
+ "title": "Dont just point",
+ "series": "GUEST SERVICE · SKILL SNACK",
+ "post": "QEG-0212",
+ "cover_t": 2.3,
+ "scenes": [
+  {
+   "label": "DIRECTIONS",
+   "lines": [
+    [
+     "A guest asks where the ballroom is.",
+     "A guest asks where\nthe *ballroom* is.",
+     0.2
+    ],
+    [
+     "Don't just point.",
+     "Don't just *point.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Speech balloon",
+     "x": 540,
+     "y": 760,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "Where's the\n*ballroom?*",
+     "x": 540,
+     "y": 1080,
+     "size": 84,
+     "at": "ballroom"
+    },
+    {
+     "el": "icon",
+     "name": "Backhand index pointing right",
+     "x": 440,
+     "y": 1240,
+     "size": 130,
+     "at": "point"
+    },
+    {
+     "el": "cross",
+     "x": 640,
+     "y": 1240,
+     "size": 110,
+     "at": "point+0.4"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "STEP 1",
+   "lines": [
+    [
+     "Stop, and give them your full attention.",
+     "*1* · Stop and give them\nyour *full attention.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Eye",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "Full *attention*",
+     "x": 540,
+     "y": 1120,
+     "size": 80,
+     "at": "attention"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "STEP 2",
+   "lines": [
+    [
+     "If you can, walk them there.",
+     "*2* · If you can,\n*walk them there.*",
+     0.3
+    ],
+    [
+     "It turns directions into service.",
+     "It turns directions\ninto *service.*",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Door",
+     "x": 820,
+     "y": 800,
+     "size": 240,
+     "at": 0.1
+    },
+    {
+     "el": "arrow",
+     "from": [
+      220,
+      1080
+     ],
+     "to": [
+      760,
+      880
+     ],
+     "bend": 0.25,
+     "dashed": true,
+     "color": "gold",
+     "at": "walk",
+     "dur": 1.4
+    },
+    {
+     "el": "text",
+     "t": "YOU",
+     "x": 220,
+     "y": 1150,
+     "size": 30,
+     "at": 0.2,
+     "font": "mono",
+     "tracking": 4
+    },
+    {
+     "el": "text",
+     "t": "BALLROOM",
+     "x": 820,
+     "y": 960,
+     "size": 24,
+     "at": 0.3,
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "STEP 3",
+   "lines": [
+    [
+     "If you can't leave your post, use an open hand, not one finger.",
+     "*3* · Can't leave your post?\nUse an *open hand,* not one finger.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Backhand index pointing right",
+     "x": 300,
+     "y": 820,
+     "size": 240,
+     "at": 0.1
+    },
+    {
+     "el": "cross",
+     "x": 300,
+     "y": 1040,
+     "size": 130,
+     "at": "finger+0.2"
+    },
+    {
+     "el": "icon",
+     "name": "Palm up hand",
+     "x": 780,
+     "y": 820,
+     "size": 260,
+     "at": "open"
+    },
+    {
+     "el": "check",
+     "x": 780,
+     "y": 1040,
+     "size": 130,
+     "at": "open+0.3"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "STEP 4",
+   "lines": [
+    [
+     "Give a landmark, like past the lifts, on your left.",
+     "*4* · Give a landmark: “past\nthe *lifts,* on your left”",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Elevator",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "PAST THE LIFTS · ON YOUR LEFT",
+     "x": 540,
+     "y": 1100,
+     "size": 28,
+     "at": "lifts",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "STEP 5",
+   "lines": [
+    [
+     "Then check they've got it.",
+     "*5* · Then check\nthey've *got it.*",
+     0.3
+    ],
+    [
+     "Small habit, big difference.",
+     "Small habit,\n*big difference.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Thumbs up",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "Small habit,\n*big difference.*",
+     "x": 540,
+     "y": 1130,
+     "size": 84,
+     "at": "L1"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Want to learn guest service properly? WhatsApp oh one nine, eight six two, six seven oh four, and type Q two one two.",
+     "",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q212",
+   "cta_size": 34
+  }
+ ],
+ "id": "007-dont-just-point",
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ }
+}

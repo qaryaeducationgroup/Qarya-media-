@@ -1,0 +1,48 @@
+{
+ "id": "QEG-0214",
+ "suffix": "-v2",
+ "slides": [
+  {
+   "kicker": "For parents",
+   "head": "Industry-based learning: what it means for *your child.*",
+   "hsize": "m",
+   "icon": "Compass",
+   "bm": "Pembelajaran berasaskan industri: apa maknanya untuk anak anda."
+  },
+  {
+   "icon": "Trophy",
+   "head": "Our route is *industry-based learning,*",
+   "hsize": "m",
+   "body": "recognised through industry bodies and skills certification."
+  },
+  {
+   "kicker": "Taught by industry veterans",
+   "head": "Learn from people who've *worked in hotels.*",
+   "hsize": "s",
+   "rows": [
+    {
+     "n": "~27",
+     "t": "*Gurcharan Singh* · about 27 years in hospitality and academia, with real hotel and resort operations experience"
+    }
+   ]
+  },
+  {
+   "icon": "Laptop",
+   "kicker": "Months 1–3",
+   "head": "Online, on our *AI-powered* learning platform.",
+   "hsize": "m",
+   "body": "Built with Akademi Interaktif."
+  },
+  {
+   "icon": "Hotel",
+   "head": "Then *on-the-job training* at partner hotels,",
+   "hsize": "m",
+   "body": "probation, and a pathway to a full-time offer."
+  },
+  {
+   "head": "*Questions?*",
+   "wa": "Q214",
+   "after": "Qarya@akademi-ai.my · qarya.my"
+  }
+ ]
+}

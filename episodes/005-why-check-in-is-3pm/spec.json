@@ -1,0 +1,290 @@
+{
+ "title": "Why check-in is at 3 PM",
+ "series": "HOSPITALITY 101",
+ "post": "QEG-0207",
+ "cover_t": 2.0,
+ "scenes": [
+  {
+   "label": "CHECK-IN",
+   "lines": [
+    [
+     "Most hotels won't let you into your room until three or four in the afternoon.",
+     "Most hotels won't let you in\nuntil *3 or 4 PM.*",
+     0.3
+    ],
+    [
+     "There's a reason for that wait.",
+     "There's a *reason*\nfor that wait.",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Bellhop bell",
+     "x": 540,
+     "y": 760,
+     "size": 320,
+     "at": 0.1,
+     "anim": "rise"
+    },
+    {
+     "el": "text",
+     "t": "*3 or 4 PM*",
+     "x": 540,
+     "y": 1090,
+     "size": 120,
+     "at": "three"
+    },
+    {
+     "el": "text",
+     "t": "TYPICAL CHECK-IN",
+     "x": 540,
+     "y": 1190,
+     "size": 30,
+     "at": "three+0.3",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE TIMES",
+   "lines": [
+    [
+     "Check-out is usually around eleven in the morning.",
+     "Check-out is usually\naround *11 AM.*",
+     0.2
+    ],
+    [
+     "Check-in comes hours later. Times vary from hotel to hotel.",
+     "Check-in comes *hours later.*\nTimes vary by hotel.",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "clock",
+     "x": 540,
+     "y": 840,
+     "r": 230,
+     "from": "11:00",
+     "to": "15:00",
+     "at": "eleven",
+     "delay": 0.6,
+     "dur": 2.6
+    },
+    {
+     "el": "text",
+     "t": "CHECK-OUT 11 AM  →  CHECK-IN 3 PM",
+     "x": 540,
+     "y": 1180,
+     "size": 28,
+     "at": "L1",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE GAP",
+   "lines": [
+    [
+     "That gap is housekeeping time.",
+     "That gap is\n*housekeeping time.*",
+     0.3
+    ],
+    [
+     "The last guest checks out,",
+     "The last guest *checks out,*",
+     0.1
+    ],
+    [
+     "the room is stripped and cleaned,",
+     "the room is *stripped*\nand *cleaned,*",
+     0.1
+    ],
+    [
+     "then someone from housekeeping inspects it.",
+     "then housekeeping\n*inspects* it.",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Door",
+     "x": 240,
+     "y": 760,
+     "size": 200,
+     "at": 0.2
+    },
+    {
+     "el": "text",
+     "t": "CHECK OUT",
+     "x": 240,
+     "y": 900,
+     "size": 24,
+     "at": "checks+0.2",
+     "font": "mono",
+     "tracking": 4
+    },
+    {
+     "el": "icon",
+     "name": "Bed",
+     "x": 540,
+     "y": 760,
+     "size": 200,
+     "at": "stripped"
+    },
+    {
+     "el": "text",
+     "t": "STRIP",
+     "x": 540,
+     "y": 900,
+     "size": 24,
+     "at": "stripped+0.2",
+     "font": "mono",
+     "tracking": 4
+    },
+    {
+     "el": "icon",
+     "name": "Soap",
+     "x": 840,
+     "y": 760,
+     "size": 200,
+     "at": "cleaned"
+    },
+    {
+     "el": "text",
+     "t": "CLEAN",
+     "x": 840,
+     "y": 900,
+     "size": 24,
+     "at": "cleaned+0.2",
+     "font": "mono",
+     "tracking": 4
+    },
+    {
+     "el": "icon",
+     "name": "Magnifying glass tilted left",
+     "x": 540,
+     "y": 1090,
+     "size": 200,
+     "at": "inspects"
+    },
+    {
+     "el": "text",
+     "t": "INSPECT",
+     "x": 540,
+     "y": 1225,
+     "size": 24,
+     "at": "inspects+0.2",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "IN THEIR WORDS",
+   "lines": [
+    [
+     "As one hospitality expert put it: it's a function of housekeeping.",
+     "“It's a function\nof *housekeeping.*”",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "text",
+     "t": "“It's a function\nof *housekeeping.*”",
+     "x": 540,
+     "y": 880,
+     "size": 96,
+     "at": 0.2,
+     "font": "serif_i"
+    },
+    {
+     "el": "text",
+     "t": "GARY VALLEN · HOSPITALITY CONSULTANT",
+     "x": 540,
+     "y": 1100,
+     "size": 24,
+     "at": 0.8,
+     "font": "mono",
+     "tracking": 4,
+     "color": "goldhi"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "IN HOSPITALITY",
+   "lines": [
+    [
+     "So that wait is a whole team getting your room right.",
+     "That wait is a whole team\ngetting your room *right.*",
+     0.4
+    ],
+    [
+     "Every clean room is a moment someone prepared for you.",
+     "Every clean room was\n*prepared for you.*",
+     0.8
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Key",
+     "x": 540,
+     "y": 800,
+     "size": 300,
+     "at": 0.1
+    },
+    {
+     "el": "check",
+     "x": 740,
+     "y": 1000,
+     "size": 150,
+     "at": "right"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Follow Qarya, for more hospitality literacy.",
+     "Follow Qarya for more\n*Hospitality Literacy.*",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q207",
+   "cta_size": 34
+  }
+ ],
+ "id": "005-why-check-in-is-3pm",
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ }
+}

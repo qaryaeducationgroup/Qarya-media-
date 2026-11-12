@@ -641,7 +641,7 @@ class EndCard(Scene):
         lg = Image.open(LOGO_DARK).convert('RGBA')
         self.logo = lg.resize((420, int(lg.height * 420 / lg.width)), Image.LANCZOS)
         self.motto = text_sprite(p.get('motto', 'Redefining Hospitality Literacy'), SERIF_I(46), CREAM)
-        self.follow = text_sprite(p.get('cta', 'FOLLOW FOR MORE  ·  QARYA.MY'), MONO(24), GOLDHI, 4)
+        self.follow = text_sprite(p.get('cta', 'FOLLOW FOR MORE  ·  QARYA.MY'), MONO(p.get('cta_size', 24)), GOLDHI, 4)
         self.parts = Particles(40, (100, 500, 980, 1400), 31, GOLDHI, (1.5, 3.5), (0, -10), 0.6)
         self.glow = glow_sprite(380, GOLD, 0.25)
 

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-11-12",
  "standard": "Every narrated claim needs 2 independent reputable sources. Legends are worded as legends. Use only the SAFE claims; never the DO NOT SAY versions.",
  "topics": [
   {
@@ -17,9 +17,9 @@
     "Exact sales or loyalty uplift numbers from scent-marketing vendors."
    ],
    "sources": [
-    "How scent, emotion, and memory are intertwined — and exploited — Harvard Gazette (Feb 2020) — https://news.harvard.edu/gazette/story/2020/02/how-scent-emotion-and-memory-are-intertwined-and-exploited/",
-    "Why smells trigger memories — Cleveland Clinic — https://health.clevelandclinic.org/smells-and-memory",
-    "Connections between smell, memory and health — Harvard Medical School magazine (Apr 2024) — https://magazine.hms.harvard.edu/articles/connections-between-smell-memory-and-health"
+    "How scent, emotion, and memory are intertwined \u2014 and exploited \u2014 Harvard Gazette (Feb 2020) \u2014 https://news.harvard.edu/gazette/story/2020/02/how-scent-emotion-and-memory-are-intertwined-and-exploited/",
+    "Why smells trigger memories \u2014 Cleveland Clinic \u2014 https://health.clevelandclinic.org/smells-and-memory",
+    "Connections between smell, memory and health \u2014 Harvard Medical School magazine (Apr 2024) \u2014 https://magazine.hms.harvard.edu/articles/connections-between-smell-memory-and-health"
    ],
    "slot": "2026-10-10 (posted by hand)"
   },
@@ -31,7 +31,7 @@
    "status": "scheduled",
    "episode": "002-peak-end",
    "safe": [
-    "1993 study (Kahneman, Fredrickson, Schreiber, Redelmeier): one hand in 14 °C water for 60 s; the other trial was 60 s plus 30 s while the water warmed to about 15 °C.",
+    "1993 study (Kahneman, Fredrickson, Schreiber, Redelmeier): one hand in 14 \u00b0C water for 60 s; the other trial was 60 s plus 30 s while the water warmed to about 15 \u00b0C.",
     "22 of 32 (69%) chose to repeat the longer trial.",
     "Remembered pain tracks the peak and the end more than duration.",
     "For hospitality say: endings CAN colour how we remember an experience."
@@ -42,9 +42,9 @@
     "Colonoscopy return-rate claims."
    ],
    "sources": [
-    "When More Pain Is Preferred to Less: Adding a Better End — Psychological Science 4(6), 1993 — https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.1993.tb00589.x/",
-    "Memories of colonoscopy: a randomized trial — Pain 104 (2003) — https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/redelmeier_et_al._2003_-_memories_of_colonoscopy.pdf",
-    "Chark, King & Tang (2020), Journal of Travel Research — https://research.polyu.edu.hk/en/publications/the-journey-from-episode-to-evaluation-how-travelers-arrive-at-su-2/"
+    "When More Pain Is Preferred to Less: Adding a Better End \u2014 Psychological Science 4(6), 1993 \u2014 https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.1993.tb00589.x/",
+    "Memories of colonoscopy: a randomized trial \u2014 Pain 104 (2003) \u2014 https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/redelmeier_et_al._2003_-_memories_of_colonoscopy.pdf",
+    "Chark, King & Tang (2020), Journal of Travel Research \u2014 https://research.polyu.edu.hk/en/publications/the-journey-from-episode-to-evaluation-how-travelers-arrive-at-su-2/"
    ],
    "slot": "2026-10-17 18:00"
   },
@@ -65,9 +65,9 @@
     "Treating the 15 seconds as exact (it is his average)."
    ],
    "sources": [
-    "Jan Carlzon — Wikipedia — https://en.wikipedia.org/wiki/Jan_Carlzon",
-    "Table-Stakes Touchpoints — Forbes (Shep Hyken, 13 Oct 2024) — https://www.forbes.com/sites/shephyken/2024/10/13/table-stakes-touchpoints-powerful-strategy-that-can-define-the-success-of-your-business/",
-    "Managing Moments — IUP — https://www.iupindia.in/606/EE_Managing_Moments_38.html"
+    "Jan Carlzon \u2014 Wikipedia \u2014 https://en.wikipedia.org/wiki/Jan_Carlzon",
+    "Table-Stakes Touchpoints \u2014 Forbes (Shep Hyken, 13 Oct 2024) \u2014 https://www.forbes.com/sites/shephyken/2024/10/13/table-stakes-touchpoints-powerful-strategy-that-can-define-the-success-of-your-business/",
+    "Managing Moments \u2014 IUP \u2014 https://www.iupindia.in/606/EE_Managing_Moments_38.html"
    ],
    "episode": "003-moments-of-truth",
    "slot": "2026-10-20 18:00 (QEG-0156)"
@@ -88,9 +88,9 @@
     "That mints work everywhere."
    ],
    "sources": [
-    "Sweetening the Till — JASP 2002 (Cornell eCommons) — https://ecommons.cornell.edu/items/49ee9efd-b182-49af-8346-a3c63391a552",
-    "NPR transcript, Robert Cialdini — https://www.npr.org/transcripts/93872977",
-    "Why It Works: Flat Iron — Marketing Week — https://www.marketingweek.com/why-it-works-flat-iron-steak/"
+    "Sweetening the Till \u2014 JASP 2002 (Cornell eCommons) \u2014 https://ecommons.cornell.edu/items/49ee9efd-b182-49af-8346-a3c63391a552",
+    "NPR transcript, Robert Cialdini \u2014 https://www.npr.org/transcripts/93872977",
+    "Why It Works: Flat Iron \u2014 Marketing Week \u2014 https://www.marketingweek.com/why-it-works-flat-iron-steak/"
    ]
   },
   {
@@ -112,9 +112,9 @@
     "A single global requirement."
    ],
    "sources": [
-    "History — UICH Les Clefs d'Or — https://www.lesclefsdor.org/about/history",
-    "Les Clefs d'Or in Cannes — CNN Travel — https://amp.cnn.com/cnn/travel/article/les-clefs-dor-cannes-concierges",
-    "Look for the Golden Key concierge — Executive Traveller — https://www.executivetraveller.com/make-the-impossible-possible-look-for-the-golden-key-hotel-concierge"
+    "History \u2014 UICH Les Clefs d'Or \u2014 https://www.lesclefsdor.org/about/history",
+    "Les Clefs d'Or in Cannes \u2014 CNN Travel \u2014 https://amp.cnn.com/cnn/travel/article/les-clefs-dor-cannes-concierges",
+    "Look for the Golden Key concierge \u2014 Executive Traveller \u2014 https://www.executivetraveller.com/make-the-impossible-possible-look-for-the-golden-key-hotel-concierge"
    ],
    "hold_reason": "File 05: The Golden Keys Society may be named only once the MOU is signed or they agree. Re-check file 05 before using."
   },
@@ -136,9 +136,9 @@
     "Origin stories (Last Supper etc.)."
    ],
    "sources": [
-    "LCQ6: Floor numbering of buildings — HK Development Bureau (4 Nov 2009) — https://www.devb.gov.hk/en/sdev/press/index_id_5697.html",
-    "Thirteen Percent of Americans Bothered… — Gallup — https://news.gallup.com/poll/26887/thirteen-percent-americans-bothered-stay-hotels-13th-floor.aspx",
-    "Common taboos that affect properties — StarProperty — https://starproperty.my/news/common-taboos-that-affect-properties/7933"
+    "LCQ6: Floor numbering of buildings \u2014 HK Development Bureau (4 Nov 2009) \u2014 https://www.devb.gov.hk/en/sdev/press/index_id_5697.html",
+    "Thirteen Percent of Americans Bothered\u2026 \u2014 Gallup \u2014 https://news.gallup.com/poll/26887/thirteen-percent-americans-bothered-stay-hotels-13th-floor.aspx",
+    "Common taboos that affect properties \u2014 StarProperty \u2014 https://starproperty.my/news/common-taboos-that-affect-properties/7933"
    ]
   },
   {
@@ -157,8 +157,8 @@
     "That Maister listed 10 principles (he listed 8)."
    ],
    "sources": [
-    "The Psychology of Waiting Lines — David Maister — https://davidmaister.com/articles/1/52/",
-    "Managing the Psychology of Waiting — open textbook (Dixon) — https://uen.pressbooks.pub/opexintro/chapter/managing-the-psychology-of-waiting"
+    "The Psychology of Waiting Lines \u2014 David Maister \u2014 https://davidmaister.com/articles/1/52/",
+    "Managing the Psychology of Waiting \u2014 open textbook (Dixon) \u2014 https://uen.pressbooks.pub/opexintro/chapter/managing-the-psychology-of-waiting"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "verdict": "CAVEAT",
    "status": "ready",
    "safe": [
-    "In a Fraunhofer Institute study for Lufthansa in a simulated low-pressure cabin, salt tasted 20–30% less intense and sugar 15–20% less.",
+    "In a Fraunhofer Institute study for Lufthansa in a simulated low-pressure cabin, salt tasted 20\u201330% less intense and sugar 15\u201320% less.",
     "Fraunhofer: in the air, food tastes as it does when we have a cold.",
     "Cornell (2015): jet-level noise suppresses sweetness and enhances umami, one reason tomato juice is popular on planes."
    ],
@@ -178,9 +178,9 @@
     "That umami is unaffected by pressure."
    ],
    "sources": [
-    "A feast for research — Fraunhofer IBP — https://www.ibp.fraunhofer.de/en/press-media/research-in-focus/a-feast-for-research.html",
-    "Burdack-Freitag et al., J. Verbr. Lebensm. 6 — https://link.springer.com/article/10.1007/s00003-010-0630-y",
-    "On planes, savory tomato becomes favored flavor — Cornell Chronicle — https://www.news.cornell.edu/stories/2015/05/planes-savory-tomato-becomes-favored-flavor"
+    "A feast for research \u2014 Fraunhofer IBP \u2014 https://www.ibp.fraunhofer.de/en/press-media/research-in-focus/a-feast-for-research.html",
+    "Burdack-Freitag et al., J. Verbr. Lebensm. 6 \u2014 https://link.springer.com/article/10.1007/s00003-010-0630-y",
+    "On planes, savory tomato becomes favored flavor \u2014 Cornell Chronicle \u2014 https://www.news.cornell.edu/stories/2015/05/planes-savory-tomato-becomes-favored-flavor"
    ]
   },
   {
@@ -199,8 +199,8 @@
     "Power saving as the reason."
    ],
    "sources": [
-    "Why do the window blinds have to be open… — Schiphol — https://news.schiphol.com/why-do-the-window-blinds-have-to-be-open-for-take-off-and-landing/",
-    "Why airplanes dim cabin lights… — Afar — https://www.afar.com/magazine/why-airplanes-dim-cabin-lights-for-takeoff-and-landing"
+    "Why do the window blinds have to be open\u2026 \u2014 Schiphol \u2014 https://news.schiphol.com/why-do-the-window-blinds-have-to-be-open-for-take-off-and-landing/",
+    "Why airplanes dim cabin lights\u2026 \u2014 Afar \u2014 https://www.afar.com/magazine/why-airplanes-dim-cabin-lights-for-takeoff-and-landing"
    ]
   },
   {
@@ -208,7 +208,7 @@
    "title": "The folded triangle on hotel toilet paper",
    "angle": "A signal that the bathroom was cleaned",
    "verdict": "CAVEAT",
-   "status": "ready",
+   "status": "scheduled",
    "safe": [
     "The usual explanation: the fold shows the bathroom was cleaned and the roll hasn't been used since.",
     "A Holiday Inns association executive said this in David Feldman's Imponderables (1989).",
@@ -219,18 +219,20 @@
     "A specific inventor, chain or year."
    ],
    "sources": [
-    "Hotel toilet paper folding — Wikipedia — https://en.wikipedia.org/wiki/Hotel_toilet_paper_folding",
-    "Why do hotels fold toilet paper into a triangle — Mental Floss — https://www.mentalfloss.com/random-facts/why-do-hotels-fold-toilet-paper-triangle"
-   ]
+    "Hotel toilet paper folding \u2014 Wikipedia \u2014 https://en.wikipedia.org/wiki/Hotel_toilet_paper_folding",
+    "Why do hotels fold toilet paper into a triangle \u2014 Mental Floss \u2014 https://www.mentalfloss.com/random-facts/why-do-hotels-fold-toilet-paper-triangle"
+   ],
+   "episode": "008-the-toilet-paper-triangle",
+   "slot": "2026-11-20 18:00 (QEG-0215)"
   },
   {
    "id": "T11",
    "title": "Why chefs wear tall white hats",
-   "angle": "Carême's toque; height = rank; the 100-pleats legend",
+   "angle": "Car\u00eame's toque; height = rank; the 100-pleats legend",
    "verdict": "CAVEAT",
    "status": "ready",
    "safe": [
-    "Marie-Antoine Carême (1784–1833) is credited with the modern white toque.",
+    "Marie-Antoine Car\u00eame (1784\u20131833) is credited with the modern white toque.",
     "White is said to signal cleanliness; taller hats came to mark higher rank in the kitchen brigade.",
     "The story goes that the pleats stand for 100 ways to cook an egg; there's no evidence for it."
    ],
@@ -239,8 +241,8 @@
     "Ancient origin stories as fact."
    ],
    "sources": [
-    "Do the Folds in a Chef's Hat Represent… — Snopes — https://www.snopes.com/articles/435023/folds-chefs-hat-eggs/",
-    "The chef's hat through the ages — Alimentarium — https://www.alimentarium.org/en/story/chefs-hat-through-ages"
+    "Do the Folds in a Chef's Hat Represent\u2026 \u2014 Snopes \u2014 https://www.snopes.com/articles/435023/folds-chefs-hat-eggs/",
+    "The chef's hat through the ages \u2014 Alimentarium \u2014 https://www.alimentarium.org/en/story/chefs-hat-through-ages"
    ]
   },
   {
@@ -258,9 +260,9 @@
     "Presenting the white-linen reasons as research findings."
    ],
    "sources": [
-    "Sternlicht: the industry thought we were nuts… — Hotel Online — https://www.hotel-online.com/news/barry-sternlicht-the-hotel-industry-thought-we-were-nuts-when-we-introduced-this-fluffy-all-white-bed-five-years-later-westin-has-sold-almost-4000-heavenly-beds-and-30000-sheets-and-pillows-au/",
-    "NBC News on the bed wars — https://www.nbcnews.com/id/wbna4097055",
-    "Why hotels use white sheets — Islands — https://www.islands.com/2146792/why-hotels-use-white-sheets-for-bed-explained/"
+    "Sternlicht: the industry thought we were nuts\u2026 \u2014 Hotel Online \u2014 https://www.hotel-online.com/news/barry-sternlicht-the-hotel-industry-thought-we-were-nuts-when-we-introduced-this-fluffy-all-white-bed-five-years-later-westin-has-sold-almost-4000-heavenly-beds-and-30000-sheets-and-pillows-au/",
+    "NBC News on the bed wars \u2014 https://www.nbcnews.com/id/wbna4097055",
+    "Why hotels use white sheets \u2014 Islands \u2014 https://www.islands.com/2146792/why-hotels-use-white-sheets-for-bed-explained/"
    ]
   },
   {
@@ -268,9 +270,9 @@
    "title": "Why check-in is at 3 PM",
    "angle": "The gap is housekeeping time: strip, clean, inspect",
    "verdict": "CAVEAT",
-   "status": "ready",
+   "status": "scheduled",
    "safe": [
-    "In North America check-in is typically 3–4 PM and check-out around 11 AM; elsewhere it varies.",
+    "In North America check-in is typically 3\u20134 PM and check-out around 11 AM; elsewhere it varies.",
     "The usual reason is housekeeping: the room must be vacated, stripped, cleaned and inspected (Gary Vallen, co-author of the textbook Check-In Check-Out, in the Washington Post)."
    ],
    "avoid": [
@@ -279,9 +281,11 @@
     "Noon as the global norm."
    ],
    "sources": [
-    "Want to check in to your hotel early? Good luck. — Washington Post via Hospitality Net — https://www.hospitalitynet.org/external/4112580.html",
-    "Hotel check-in/check-out times — InsideHook — https://www.insidehook.com/travel/hotel-check-check-out-times"
-   ]
+    "Want to check in to your hotel early? Good luck. \u2014 Washington Post via Hospitality Net \u2014 https://www.hospitalitynet.org/external/4112580.html",
+    "Hotel check-in/check-out times \u2014 InsideHook \u2014 https://www.insidehook.com/travel/hotel-check-check-out-times"
+   ],
+   "episode": "005-why-check-in-is-3pm",
+   "slot": "2026-11-17 18:00 (QEG-0207)"
   },
   {
    "id": "T14",
@@ -299,8 +303,8 @@
     "A dollar figure."
    ],
    "sources": [
-    "Diners spend more when menus don't use dollar signs — Cornell Chronicle — https://news.cornell.edu/node/273666",
-    "Cornell Hospitality Report (Kimes) — https://ecommons.cornell.edu/bitstream/1813/72131/1/Kimes14_Menu_price.pdf"
+    "Diners spend more when menus don't use dollar signs \u2014 Cornell Chronicle \u2014 https://news.cornell.edu/node/273666",
+    "Cornell Hospitality Report (Kimes) \u2014 https://ecommons.cornell.edu/bitstream/1813/72131/1/Kimes14_Menu_price.pdf"
    ]
   },
   {
@@ -320,8 +324,8 @@
     "That staff regularly spend it."
    ],
    "sources": [
-    "Horst Schulze on his Ritz-Carlton book — Knowledge@Wharton — https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/horst-schulze-ritz-carlton-book/",
-    "Owning the complaint — JLC (2002) — https://www.jlconline.com/Remodeling/owning-the-complaint/"
+    "Horst Schulze on his Ritz-Carlton book \u2014 Knowledge@Wharton \u2014 https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/horst-schulze-ritz-carlton-book/",
+    "Owning the complaint \u2014 JLC (2002) \u2014 https://www.jlconline.com/Remodeling/owning-the-complaint/"
    ]
   },
   {
@@ -339,8 +343,8 @@
     "That businesses should cause problems."
    ],
    "sources": [
-    "Service recovery paradox — Wikipedia — https://en.wikipedia.org/wiki/Service_recovery_paradox",
-    "McCollough, Berry & Yadav (2000), J. Service Research — https://studysites.uk.sagepub.com/clow/study/articles/PDFs/14_McCollough.pdf"
+    "Service recovery paradox \u2014 Wikipedia \u2014 https://en.wikipedia.org/wiki/Service_recovery_paradox",
+    "McCollough, Berry & Yadav (2000), J. Service Research \u2014 https://studysites.uk.sagepub.com/clow/study/articles/PDFs/14_McCollough.pdf"
    ]
   },
   {
@@ -353,10 +357,10 @@
     "Hospitality trainers describe a '10 and 5' guideline: smile and eye contact at about 10 feet, a greeting at about 5 feet."
    ],
    "avoid": [
-    "Any origin (Ritz-Carlton, Disney, Walmart) — none is documented."
+    "Any origin (Ritz-Carlton, Disney, Walmart) \u2014 none is documented."
    ],
    "sources": [
-    "What is the 10 and 5 rule in hotels? — UCF — https://www.ucf.edu/question/what-is-the-10-and-5-rule-in-hotels/"
+    "What is the 10 and 5 rule in hotels? \u2014 UCF \u2014 https://www.ucf.edu/question/what-is-the-10-and-5-rule-in-hotels/"
    ]
   }
  ],

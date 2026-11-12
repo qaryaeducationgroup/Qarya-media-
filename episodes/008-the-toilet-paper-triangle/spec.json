@@ -1,0 +1,230 @@
+{
+ "title": "The toilet paper triangle",
+ "series": "HOSPITALITY 101",
+ "post": "QEG-0215",
+ "cover_t": 2.4,
+ "scenes": [
+  {
+   "label": "THE FOLD",
+   "lines": [
+    [
+     "That little triangle on hotel toilet paper is a message.",
+     "That little *triangle* on hotel\ntoilet paper is a *message.*",
+     0.3
+    ],
+    [
+     "Here's what it says.",
+     "Here's what it *says.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Roll of paper",
+     "x": 540,
+     "y": 800,
+     "size": 340,
+     "at": 0.1,
+     "anim": "rise"
+    },
+    {
+     "el": "burst",
+     "x": 540,
+     "y": 700,
+     "r": 200,
+     "color": "gold",
+     "at": "message"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "1989",
+   "lines": [
+    [
+     "In nineteen eighty-nine, the writer David Feldman asked the biggest hotel chains why they do it.",
+     "In *1989*, writer David Feldman\nasked the big chains *why.*",
+     0.2
+    ],
+    [
+     "They gave him the same answer.",
+     "They gave him\nthe *same answer.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "text",
+     "t": "*1989*",
+     "x": 540,
+     "y": 760,
+     "size": 170,
+     "at": "nineteen"
+    },
+    {
+     "el": "text",
+     "t": "DAVID FELDMAN · WRITER",
+     "x": 540,
+     "y": 900,
+     "size": 26,
+     "at": "Feldman",
+     "font": "mono",
+     "tracking": 4
+    },
+    {
+     "el": "icon",
+     "name": "Hotel",
+     "x": 540,
+     "y": 1110,
+     "size": 220,
+     "at": "chains"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE ANSWER",
+   "lines": [
+    [
+     "The fold shows the bathroom has been cleaned,",
+     "The fold shows the bathroom\nhas been *cleaned,*",
+     0.15
+    ],
+    [
+     "and that nobody has used the roll since.",
+     "and *nobody has used it*\nsince.",
+     0.4
+    ],
+    [
+     "An executive at the Holiday Inns association told him exactly that.",
+     "A *Holiday Inns* association\nexecutive said exactly that.",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Sparkles",
+     "x": 300,
+     "y": 800,
+     "size": 240,
+     "at": 0.2
+    },
+    {
+     "el": "check",
+     "x": 780,
+     "y": 800,
+     "size": 200,
+     "at": "nobody"
+    },
+    {
+     "el": "text",
+     "t": "CLEANED · UNUSED SINCE",
+     "x": 540,
+     "y": 1050,
+     "size": 30,
+     "at": "nobody+0.3",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE MYSTERY",
+   "lines": [
+    [
+     "What nobody has documented is who started it.",
+     "Nobody has documented\n*who started it.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Magnifying glass tilted left",
+     "x": 540,
+     "y": 840,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "Origin *unknown*",
+     "x": 540,
+     "y": 1130,
+     "size": 84,
+     "at": "started"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "IN HOSPITALITY",
+   "lines": [
+    [
+     "It's a tiny fold, but it tells the guest: this room is ready for you.",
+     "A tiny fold that says:\n*this room is ready for you.*",
+     0.3
+    ],
+    [
+     "In hospitality, small details do the talking.",
+     "In hospitality, *small details*\ndo the talking.",
+     0.8
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Roll of paper",
+     "x": 540,
+     "y": 820,
+     "size": 280,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "Small details\n*do the talking.*",
+     "x": 540,
+     "y": 1120,
+     "size": 84,
+     "at": "L1"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Follow Qarya, for more hospitality literacy.",
+     "Follow Qarya for more\n*Hospitality Literacy.*",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q215",
+   "cta_size": 34
+  }
+ ],
+ "id": "008-the-toilet-paper-triangle",
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ }
+}

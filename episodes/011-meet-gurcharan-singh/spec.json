@@ -1,0 +1,216 @@
+{
+ "title": "Meet Gurcharan Singh",
+ "series": "MEET THE FACULTY",
+ "post": "QEG-0205",
+ "cover_t": 2.4,
+ "scenes": [
+  {
+   "label": "QARYA FACULTY",
+   "lines": [
+    [
+     "Hotels, resorts, and the classroom.",
+     "Hotels, resorts,\nand the *classroom.*",
+     0.3
+    ],
+    [
+     "Meet Gur-charan Singh.",
+     "Meet *Gurcharan Singh.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "particles",
+     "kind": "sparkle",
+     "n": 30,
+     "at": 0
+    },
+    {
+     "el": "icon",
+     "name": "Hotel",
+     "x": 300,
+     "y": 760,
+     "size": 240,
+     "at": 0.1,
+     "anim": "rise"
+    },
+    {
+     "el": "icon",
+     "name": "Books",
+     "x": 780,
+     "y": 760,
+     "size": 240,
+     "at": "classroom"
+    },
+    {
+     "el": "text",
+     "t": "Gurcharan Singh",
+     "x": 540,
+     "y": 1060,
+     "size": 110,
+     "at": "Gurcharan"
+    },
+    {
+     "el": "text",
+     "t": "QARYA FACULTY",
+     "x": 540,
+     "y": 1160,
+     "size": 30,
+     "at": "Gurcharan+0.3",
+     "font": "mono",
+     "tracking": 4,
+     "color": "goldhi"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "EXPERIENCE",
+   "lines": [
+    [
+     "Gur-charan has about twenty-seven years across hospitality and academia.",
+     "About *27 years* across\nhospitality and *academia.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "text",
+     "t": "ABOUT",
+     "x": 540,
+     "y": 700,
+     "size": 30,
+     "at": 0.2,
+     "font": "mono",
+     "tracking": 4,
+     "color": "goldhi"
+    },
+    {
+     "el": "number",
+     "value": 27,
+     "x": 540,
+     "y": 860,
+     "size": 300,
+     "at": 0.2,
+     "dur": 1.6
+    },
+    {
+     "el": "text",
+     "t": "YEARS · HOSPITALITY + ACADEMIA",
+     "x": 540,
+     "y": 1090,
+     "size": 28,
+     "at": "years",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "OPERATIONS",
+   "lines": [
+    [
+     "That includes real hotel and resort operations experience.",
+     "Including real *hotel and resort*\n*operations* experience.",
+     0.3
+    ],
+    [
+     "He knows how hotels run, and he knows how to teach it.",
+     "He knows how hotels *run,*\nand how to *teach it.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Hotel",
+     "x": 300,
+     "y": 800,
+     "size": 240,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Key",
+     "x": 780,
+     "y": 800,
+     "size": 240,
+     "at": "resort"
+    },
+    {
+     "el": "icon",
+     "name": "Books",
+     "x": 540,
+     "y": 1100,
+     "size": 200,
+     "at": "teach"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "AT QARYA",
+   "lines": [
+    [
+     "Today, he's part of the Qarya faculty.",
+     "Today he's part of\nthe *Qarya faculty.*",
+     0.3
+    ],
+    [
+     "At Qarya, you learn from industry veterans like him.",
+     "At Qarya, you learn from\n*industry veterans.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Bellhop bell",
+     "x": 540,
+     "y": 800,
+     "size": 300,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "Learn from\n*industry veterans*",
+     "x": 540,
+     "y": 1110,
+     "size": 88,
+     "at": "veterans"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Questions? WhatsApp oh one nine, eight six two, six seven oh four, and type Q two oh five.",
+     "",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q205",
+   "cta_size": 34
+  }
+ ],
+ "id": "011-meet-gurcharan-singh",
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ }
+}

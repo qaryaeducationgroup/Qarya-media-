@@ -1,0 +1,243 @@
+{
+ "title": "A day on the front desk",
+ "series": "EXAMPLE SHIFT",
+ "post": "QEG-0210",
+ "cover_t": 2.0,
+ "scenes": [
+  {
+   "label": "FRONT DESK",
+   "lines": [
+    [
+     "Here's a day on the front desk, in forty seconds.",
+     "A day on the *front desk,*\nin *40 seconds.*",
+     0.2
+    ],
+    [
+     "This is an example shift, and every hotel runs its own way.",
+     "An *example shift:* every hotel\nruns its own way.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Bellhop bell",
+     "x": 540,
+     "y": 800,
+     "size": 340,
+     "at": 0.1,
+     "anim": "drop"
+    },
+    {
+     "el": "burst",
+     "x": 540,
+     "y": 760,
+     "r": 260,
+     "color": "gold",
+     "at": 0.4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "START",
+   "lines": [
+    [
+     "You start with a handover from the last shift.",
+     "Start: a *handover*\nfrom the last shift.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Clipboard",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "HANDOVER",
+     "x": 540,
+     "y": 1080,
+     "size": 30,
+     "at": "handover",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "MORNING",
+   "lines": [
+    [
+     "Mornings are for check-outs, bills and goodbyes.",
+     "Morning: *check-outs,*\nbills and goodbyes.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Luggage",
+     "x": 300,
+     "y": 820,
+     "size": 260,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Receipt",
+     "x": 780,
+     "y": 820,
+     "size": 240,
+     "at": "bills"
+    },
+    {
+     "el": "icon",
+     "name": "Waving hand",
+     "x": 540,
+     "y": 1100,
+     "size": 180,
+     "at": "goodbyes",
+     "wobble": 7
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "MIDDAY",
+   "lines": [
+    [
+     "Midday brings guest calls and requests.",
+     "Midday: guest *calls*\nand *requests.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Telephone",
+     "x": 360,
+     "y": 840,
+     "size": 280,
+     "at": 0.1,
+     "wobble": 4
+    },
+    {
+     "el": "icon",
+     "name": "Memo",
+     "x": 760,
+     "y": 840,
+     "size": 240,
+     "at": "requests"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "AFTERNOON",
+   "lines": [
+    [
+     "In the afternoon, new guests arrive and check in.",
+     "Afternoon: *arrivals*\nand *check-ins.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Key",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1,
+     "anim": "rise"
+    },
+    {
+     "el": "text",
+     "t": "WELCOME",
+     "x": 540,
+     "y": 1080,
+     "size": 30,
+     "at": "check",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "END OF SHIFT",
+   "lines": [
+    [
+     "And you finish with handover notes for the next shift.",
+     "End: *handover notes*\nfor the next shift.",
+     0.3
+    ],
+    [
+     "Front Office Operations is one of our specialisations.",
+     "*Front Office Operations*\nis a QIH specialisation.",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Notebook",
+     "x": 540,
+     "y": 780,
+     "size": 300,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "Front Office\n*Operations*",
+     "x": 540,
+     "y": 1100,
+     "size": 90,
+     "at": "L1"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "WhatsApp oh one nine, eight six two, six seven oh four, and type Q two one oh.",
+     "",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q210",
+   "cta_size": 34
+  }
+ ],
+ "id": "006-a-day-on-the-front-desk",
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ }
+}

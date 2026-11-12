@@ -72,3 +72,10 @@ If a word isn't heard by the recogniser the time is estimated from the script an
 
 Colours: cream, gold, goldhi, rose, teal, sky, navy, mauve, grey, dim.
 SFX types: whoosh, boom, shimmer, pop, tick.
+
+## Claude reels (non-explainer, faceless)
+
+Same spec format. Set `"series"` to the format label (e.g. "MEET THE FACULTY", "GUEST SERVICE · SKILL SNACK"), and give
+the end scene the post's CTA: `{"type": "end", "lines": [["WhatsApp oh one nine, eight six two, six seven oh four, and type Q two oh five.", "", 2.2]], "cta": "WHATSAPP 019-862 6704  ·  TYPE Q205", "cta_size": 34}`.
+`check` reads phone numbers and post codes digit by digit, so it compares them correctly with the recogniser's digits.
+Graphics and carousels: `python3 kit/graphics.py graphics/<QEG-####>.json <outdir>` (1080×1440 PNG per slide).

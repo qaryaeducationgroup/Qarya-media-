@@ -1,0 +1,332 @@
+{
+ "title": "Redefining Hospitality Literacy",
+ "series": "QARYA INSTITUTE OF HOSPITALITY",
+ "post": "QEG-0219",
+ "cover_t": 2.4,
+ "scenes": [
+  {
+   "label": "OUR MOTTO",
+   "lines": [
+    [
+     "Why is our motto, Redefining Hospitality Literacy?",
+     "Why our motto is\n*“Redefining Hospitality Literacy”*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Compass",
+     "x": 540,
+     "y": 800,
+     "size": 340,
+     "at": 0.1,
+     "anim": "rise"
+    },
+    {
+     "el": "particles",
+     "kind": "sparkle",
+     "n": 30,
+     "at": 0
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "A DECADE",
+   "lines": [
+    [
+     "We've spent close to a decade in hospitality training.",
+     "Close to *a decade* of\nhospitality training.",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Tear-off calendar",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "CLOSE TO 10 YEARS",
+     "x": 540,
+     "y": 1090,
+     "size": 30,
+     "at": "decade",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "LITERACY",
+   "lines": [
+    [
+     "And we believe the industry needs people who know how hotels really work.",
+     "People who know how hotels\n*really work.*",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Books",
+     "x": 320,
+     "y": 840,
+     "size": 260,
+     "at": 0.1
+    },
+    {
+     "el": "arrow",
+     "from": [
+      460,
+      840
+     ],
+     "to": [
+      620,
+      840
+     ],
+     "color": "gold",
+     "at": "know",
+     "dur": 0.6
+    },
+    {
+     "el": "icon",
+     "name": "Hotel",
+     "x": 780,
+     "y": 840,
+     "size": 260,
+     "at": "hotels"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "ONLINE",
+   "lines": [
+    [
+     "So at Qarya, you learn online, on an ay-eye powered platform, built with Akademi Interaktif.",
+     "Learn online on an *AI-powered*\nplatform, built with *Akademi Interaktif.*",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Laptop",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "BUILT WITH AKADEMI INTERAKTIF",
+     "x": 540,
+     "y": 1090,
+     "size": 26,
+     "at": "built",
+     "font": "mono",
+     "tracking": 4,
+     "color": "goldhi"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE FACULTY",
+   "lines": [
+    [
+     "Taught by industry veterans.",
+     "Taught by *industry veterans.*",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Cooking",
+     "x": 240,
+     "y": 840,
+     "size": 200,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Bellhop bell",
+     "x": 540,
+     "y": 840,
+     "size": 200,
+     "at": 0.3
+    },
+    {
+     "el": "icon",
+     "name": "Bed",
+     "x": 840,
+     "y": 840,
+     "size": 200,
+     "at": 0.5
+    },
+    {
+     "el": "text",
+     "t": "*Industry veterans*",
+     "x": 540,
+     "y": 1100,
+     "size": 88,
+     "at": "veterans"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE PATHWAY",
+   "lines": [
+    [
+     "Then comes on-the-job training at partner hotels, probation, and a pathway to a full-time offer.",
+     "Then *on-the-job training* at partner\nhotels, probation, a *pathway to an offer.*",
+     0.3
+    ],
+    [
+     "That's hospitality literacy.",
+     "That's *hospitality literacy.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "text",
+     "t": "ONLINE",
+     "x": 160,
+     "y": 800,
+     "size": 24,
+     "at": 0.1,
+     "font": "mono",
+     "tracking": 4
+    },
+    {
+     "el": "arrow",
+     "from": [
+      250,
+      800
+     ],
+     "to": [
+      330,
+      800
+     ],
+     "color": "gold",
+     "at": "job",
+     "dur": 0.4
+    },
+    {
+     "el": "text",
+     "t": "ON-THE-JOB",
+     "x": 450,
+     "y": 800,
+     "size": 24,
+     "at": "job",
+     "font": "mono",
+     "tracking": 4
+    },
+    {
+     "el": "arrow",
+     "from": [
+      570,
+      800
+     ],
+     "to": [
+      640,
+      800
+     ],
+     "color": "gold",
+     "at": "probation",
+     "dur": 0.4
+    },
+    {
+     "el": "text",
+     "t": "PROBATION",
+     "x": 760,
+     "y": 800,
+     "size": 24,
+     "at": "probation",
+     "font": "mono",
+     "tracking": 4
+    },
+    {
+     "el": "arrow",
+     "from": [
+      760,
+      850
+     ],
+     "to": [
+      620,
+      960
+     ],
+     "bend": 0.2,
+     "color": "gold",
+     "at": "pathway",
+     "dur": 0.5
+    },
+    {
+     "el": "icon",
+     "name": "Hotel",
+     "x": 540,
+     "y": 1060,
+     "size": 200,
+     "at": "pathway"
+    },
+    {
+     "el": "text",
+     "t": "PATHWAY TO A FULL-TIME OFFER",
+     "x": 540,
+     "y": 1210,
+     "size": 24,
+     "at": "pathway+0.3",
+     "font": "mono",
+     "tracking": 4,
+     "color": "goldhi"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "WhatsApp oh one nine, eight six two, six seven oh four, and type Q two one nine.",
+     "",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q219",
+   "cta_size": 34
+  }
+ ],
+ "id": "010-redefining-hospitality-literacy",
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ }
+}

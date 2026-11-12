@@ -1,0 +1,69 @@
+{
+ "id": "QEG-0211",
+ "suffix": "-v2",
+ "slides": [
+  {
+   "icon": "Bellhop bell",
+   "kicker": "For hotel staff",
+   "head": "Already working in a hotel? Learn the *next level* in one week.",
+   "hsize": "m"
+  },
+  {
+   "icon": "Hotel",
+   "head": "QIH isn't only for newcomers.",
+   "hsize": "m",
+   "body": "It's also for hotel staff who want to *upskill.*"
+  },
+  {
+   "kicker": "Three course tiers",
+   "head": "Where do you fit?",
+   "hsize": "m",
+   "rows": [
+    {
+     "n": "1",
+     "t": "Entry-Level"
+    },
+    {
+     "n": "2",
+     "t": "Practitioners"
+    },
+    {
+     "n": "3",
+     "t": "Managers"
+    }
+   ]
+  },
+  {
+   "icon": "Stopwatch",
+   "kicker": "QIH Short Programmes",
+   "head": "*1 week*",
+   "body": "On core elective specialisations, such as *Front Office Management.*"
+  },
+  {
+   "icon": "Books",
+   "head": "Built on existing *QIH study materials.*",
+   "hsize": "m"
+  },
+  {
+   "kicker": "Fee",
+   "head": "*RM5,000–6,000*",
+   "hsize": "m",
+   "body": "per candidate",
+   "rows": [
+    {
+     "n": "−",
+     "t": "RM500 rebate for full payment"
+    },
+    {
+     "n": "3×",
+     "t": "or a 3-part instalment plan, e.g. RM1,500 + RM2,000 + RM2,000"
+    }
+   ]
+  },
+  {
+   "head": "Ask which programme fits *your role.*",
+   "hsize": "m",
+   "wa": "Q211"
+  }
+ ]
+}

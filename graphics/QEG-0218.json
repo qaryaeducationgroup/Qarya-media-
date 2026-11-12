@@ -1,0 +1,51 @@
+{
+ "id": "QEG-0218",
+ "suffix": "-v2",
+ "slides": [
+  {
+   "icon": "Telephone",
+   "kicker": "Guest service",
+   "head": "Answering a hotel phone? *5 habits* that sound professional.",
+   "hsize": "m"
+  },
+  {
+   "icon": "Speech balloon",
+   "kicker": "Habit 1",
+   "head": "*Greet first,* then give the hotel's name and your own.",
+   "hsize": "m"
+  },
+  {
+   "icon": "Sparkles",
+   "kicker": "Habit 2",
+   "head": "*Smile* while you speak.",
+   "body": "Callers can often hear it in your voice."
+  },
+  {
+   "icon": "Ear",
+   "kicker": "Habit 3",
+   "head": "*Listen* to the whole request before you answer.",
+   "hsize": "m",
+   "body": "Don't interrupt."
+  },
+  {
+   "icon": "Spiral notepad",
+   "kicker": "Habit 4",
+   "head": "*Repeat the key details* back.",
+   "hsize": "m",
+   "body": "Names, dates, room or table."
+  },
+  {
+   "icon": "Red heart",
+   "kicker": "Habit 5",
+   "head": "Close by *thanking the caller.*",
+   "hsize": "m",
+   "body": "And let them hang up first."
+  },
+  {
+   "head": "Want to learn guest service *properly?*",
+   "hsize": "m",
+   "wa": "Q218",
+   "after": "qarya.my"
+  }
+ ]
+}

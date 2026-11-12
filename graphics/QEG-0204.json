@@ -1,0 +1,51 @@
+{
+ "id": "QEG-0204",
+ "suffix": "-v2",
+ "slides": [
+  {
+   "kicker": "Parents ask",
+   "head": "What does my child need to *start?*",
+   "icon": "Speech balloon",
+   "bm": "Ibu bapa bertanya: apa yang anak saya perlukan untuk bermula?"
+  },
+  {
+   "icon": "Check mark button",
+   "head": "*No formal qualifications* needed.",
+   "body": "Your child must be able to speak English."
+  },
+  {
+   "icon": "Tear-off calendar",
+   "head": "A new intake starts *every month.*"
+  },
+  {
+   "icon": "Laptop",
+   "head": "The first three months are *online.*",
+   "body": "On the Qarya learning platform."
+  },
+  {
+   "kicker": "Fees",
+   "head": "Three ways to pay",
+   "hsize": "m",
+   "fees": [
+    {
+     "l": "Standard",
+     "p": "RM12,500"
+    },
+    {
+     "l": "Current promo, with instalments",
+     "p": "RM11,500"
+    },
+    {
+     "l": "Full lump-sum payment",
+     "p": "RM9,999",
+     "hi": true
+    }
+   ]
+  },
+  {
+   "head": "Start with a *message.*",
+   "wa": "Q204",
+   "after": "Qarya@akademi-ai.my · qarya.my"
+  }
+ ]
+}

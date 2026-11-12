@@ -1,0 +1,63 @@
+{
+ "id": "QEG-0206",
+ "suffix": "-v2",
+ "slides": [
+  {
+   "icon": "Bed",
+   "kicker": "Career pathways",
+   "head": "Love order and detail? Take a look at *Housekeeping.*"
+  },
+  {
+   "icons": [
+    "Bed",
+    "Key",
+    "Sparkles"
+   ],
+   "head": "Housekeeping looks after *guest rooms, linen* and the hotel's *public areas.*",
+   "hsize": "m"
+  },
+  {
+   "kicker": "It suits you if you",
+   "head": "Who it suits",
+   "hsize": "m",
+   "rows": [
+    {
+     "icon": "Magnifying glass tilted left",
+     "t": "notice small details"
+    },
+    {
+     "icon": "Tear-off calendar",
+     "t": "like a steady routine"
+    },
+    {
+     "icon": "Check mark button",
+     "t": "take pride in a finished job"
+    }
+   ]
+  },
+  {
+   "icon": "Soap",
+   "head": "*Housekeeping Operations*",
+   "hsize": "m",
+   "body": "is one of the specialisations you can choose at QIH."
+  },
+  {
+   "icon": "Laptop",
+   "kicker": "Months 1–3 · online",
+   "head": "Core module, your *department module* with lecturer check-ins, then *interview preparation.*",
+   "hsize": "s"
+  },
+  {
+   "icon": "Hotel",
+   "kicker": "Months 3–6",
+   "head": "On-the-job training at *partner hotels.*",
+   "hsize": "m",
+   "body": "Then probation and a pathway to a full-time offer."
+  },
+  {
+   "head": "Want to *start?*",
+   "wa": "Q206",
+   "after": "qarya.my"
+  }
+ ]
+}

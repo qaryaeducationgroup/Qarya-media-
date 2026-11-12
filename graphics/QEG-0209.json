@@ -1,0 +1,27 @@
+{
+ "id": "QEG-0209",
+ "suffix": "-v2",
+ "slides": [
+  {
+   "head": "*Three ways to pay*",
+   "hsize": "m",
+   "fees": [
+    {
+     "l": "Standard",
+     "p": "RM12,500"
+    },
+    {
+     "l": "Current promo, with instalments",
+     "p": "RM11,500"
+    },
+    {
+     "l": "Full lump-sum payment",
+     "p": "RM9,999",
+     "hi": true
+    }
+   ],
+   "body": "New intake every month",
+   "wa": "Q209"
+  }
+ ]
+}

@@ -7,8 +7,20 @@ from mix import loudness
 from scenes import numwords
 
 
+DIG = 'oh one two three four five six seven eight nine'.split()
+
+
+def spell(m):
+    return ' '.join(DIG[int(c)] for c in re.sub(r'\D', '', m.group(0)))
+
+
 def toks(s):
     out = []
+    s = s.lower()
+    # phone numbers and post codes are read digit by digit ("oh one nine", "Q two oh five"); the recogniser writes digits
+    s = re.sub(r'\b0\d{2}[- ]?\d{3}[- ]?\d{4}\b', spell, s)
+    s = re.sub(r'\bq(\d{3})\b', lambda m: 'q ' + spell(m), s)
+    s = s.replace("'", '').replace('’', '')
     for w in re.sub(r'[^a-z0-9\' ]', ' ', s.lower().replace('-', ' ').replace(',', '')).split():
         w = w.strip("'")
         if w.isdigit() and len(w) <= 6:
