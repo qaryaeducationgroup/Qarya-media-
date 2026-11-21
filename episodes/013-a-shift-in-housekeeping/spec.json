@@ -1,0 +1,252 @@
+{
+ "id": "013-a-shift-in-housekeeping",
+ "title": "A shift in Housekeeping",
+ "series": "EXAMPLE SHIFT",
+ "post": "QEG-0230",
+ "cover_t": 2.0,
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ },
+ "scenes": [
+  {
+   "label": "HOUSEKEEPING",
+   "lines": [
+    [
+     "Here's a shift in Housekeeping, in forty seconds.",
+     "A shift in *Housekeeping,*\nin *40 seconds.*",
+     0.2
+    ],
+    [
+     "This is an example, and every hotel runs its own way.",
+     "An *example shift:* every hotel\nruns its own way.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Door",
+     "x": 420,
+     "y": 800,
+     "size": 320,
+     "at": 0.1,
+     "anim": "rise"
+    },
+    {
+     "el": "icon",
+     "name": "Key",
+     "x": 720,
+     "y": 860,
+     "size": 200,
+     "at": "Housekeeping",
+     "wobble": 6
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "START",
+   "lines": [
+    [
+     "You start with a briefing and your room list.",
+     "Start: a *briefing*\nand your *room list.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Clipboard",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "ROOM LIST",
+     "x": 540,
+     "y": 1080,
+     "size": 30,
+     "at": "room",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE BED",
+   "lines": [
+    [
+     "You strip the bed, and make it with fresh linen.",
+     "*Strip the bed,* then make it\nwith *fresh linen.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Bed",
+     "x": 540,
+     "y": 840,
+     "size": 360,
+     "at": 0.1,
+     "anim": "drop"
+    },
+    {
+     "el": "particles",
+     "kind": "sparkle",
+     "n": 14,
+     "box": [
+      240,
+      640,
+      840,
+      1040
+     ],
+     "at": "fresh"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE BATHROOM",
+   "lines": [
+    [
+     "You clean and restock the bathroom.",
+     "*Clean* and *restock*\nthe bathroom.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Bathtub",
+     "x": 360,
+     "y": 840,
+     "size": 280,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Soap",
+     "x": 760,
+     "y": 800,
+     "size": 200,
+     "at": "restock"
+    },
+    {
+     "el": "icon",
+     "name": "Roll of paper",
+     "x": 760,
+     "y": 1040,
+     "size": 170,
+     "at": "restock+0.3"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "FINAL CHECK",
+   "lines": [
+    [
+     "Then a final check. Would you want to stay here?",
+     "*Final check:* would *you*\nwant to stay here?",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Magnifying glass tilted left",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1,
+     "wobble": 6
+    },
+    {
+     "el": "check",
+     "x": 540,
+     "y": 1100,
+     "size": 110,
+     "at": "stay"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "HANDOVER",
+   "lines": [
+    [
+     "You report anything broken or left behind, and hand over to the next shift.",
+     "Report anything *broken* or\n*left behind,* then hand over.",
+     0.3
+    ],
+    [
+     "Housekeeping Operations is one of our specialisations.",
+     "*Housekeeping Operations*\nis a QIH specialisation.",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Wrench",
+     "x": 340,
+     "y": 780,
+     "size": 220,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Label",
+     "x": 740,
+     "y": 780,
+     "size": 220,
+     "at": 0.4
+    },
+    {
+     "el": "text",
+     "t": "Housekeeping\n*Operations*",
+     "x": 540,
+     "y": 1100,
+     "size": 90,
+     "at": "L1"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "WhatsApp oh one nine, eight six two, six seven oh four, and type Q two three oh.",
+     "",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q230",
+   "cta_size": 34
+  }
+ ]
+}
