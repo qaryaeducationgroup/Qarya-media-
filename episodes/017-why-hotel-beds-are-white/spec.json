@@ -1,0 +1,241 @@
+{
+ "id": "017-why-hotel-beds-are-white",
+ "title": "Why hotel beds are white",
+ "series": "HOSPITALITY 101",
+ "post": "QEG-0247",
+ "cover_t": 2.0,
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ },
+ "scenes": [
+  {
+   "label": "THE BED",
+   "lines": [
+    [
+     "Why are hotel beds almost always white?",
+     "Why are hotel beds\nalmost always *white?*",
+     0.5
+    ],
+    [
+     "There's a story, and a practical reason.",
+     "There's a *story,* and a\n*practical reason.*",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Bed",
+     "x": 540,
+     "y": 820,
+     "size": 360,
+     "at": 0.1,
+     "anim": "drop"
+    },
+    {
+     "el": "particles",
+     "kind": "sparkle",
+     "n": 12,
+     "box": [
+      260,
+      620,
+      820,
+      1020
+     ],
+     "at": "white"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "1999",
+   "lines": [
+    [
+     "In August nineteen ninety-nine, Westin introduced its all-white Heavenly Bed.",
+     "In *1999*, Westin introduced\nits all-white *Heavenly Bed.*",
+     0.3
+    ],
+    [
+     "Other chains answered by upgrading their own beds.",
+     "Other chains *upgraded*\ntheir own beds.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "text",
+     "t": "1999",
+     "x": 540,
+     "y": 760,
+     "size": 200,
+     "at": 0.1,
+     "font": "serif",
+     "color": "gold"
+    },
+    {
+     "el": "icon",
+     "name": "Bed",
+     "x": 540,
+     "y": 1060,
+     "size": 220,
+     "at": "Heavenly"
+    },
+    {
+     "el": "arrow",
+     "from": [
+      300,
+      1200
+     ],
+     "to": [
+      780,
+      1200
+     ],
+     "bend": -0.15,
+     "color": "gold",
+     "at": "L1",
+     "dur": 0.8
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE LOOK",
+   "lines": [
+    [
+     "Westin is credited with popularising the all-white look in hotels.",
+     "Westin is credited with\npopularising *all-white.*",
+     0.4
+    ],
+    [
+     "It didn't invent white sheets, but it made the white bed famous.",
+     "It didn't *invent* white sheets.\nIt made them *famous.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Hotel",
+     "x": 540,
+     "y": 820,
+     "size": 300,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Star",
+     "x": 760,
+     "y": 680,
+     "size": 140,
+     "at": "famous",
+     "wobble": 6
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "WHY WHITE",
+   "lines": [
+    [
+     "White tells guests, at a glance, that the bed is clean.",
+     "White says *clean,*\n*at a glance.*",
+     0.3
+    ],
+    [
+     "And white linen can be bleached, so it comes back looking new.",
+     "It can be *bleached,* so it\ncomes back *looking new.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Magnifying glass tilted left",
+     "x": 360,
+     "y": 820,
+     "size": 240,
+     "at": 0.1,
+     "wobble": 5
+    },
+    {
+     "el": "check",
+     "x": 740,
+     "y": 820,
+     "size": 200,
+     "at": "clean"
+    },
+    {
+     "el": "icon",
+     "name": "Bubbles",
+     "x": 540,
+     "y": 1100,
+     "size": 200,
+     "at": "bleached"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "FOR HOSPITALITY",
+   "lines": [
+    [
+     "For hospitality, it's a reminder: guests judge clean with their eyes first.",
+     "Guests judge *clean*\nwith their *eyes first.*",
+     0.3
+    ],
+    [
+     "What guests can see is part of what they trust.",
+     "What guests *see* is part\nof what they *trust.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Bellhop bell",
+     "x": 540,
+     "y": 820,
+     "size": 300,
+     "at": 0.1
+    },
+    {
+     "el": "burst",
+     "x": 540,
+     "y": 820,
+     "r": 220,
+     "color": "gold",
+     "at": "eyes"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Follow Qarya, for more hospitality literacy.",
+     "Follow Qarya for more\n*Hospitality Literacy.*",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q247",
+   "cta_size": 34
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "id": "QEG-0243",
+ "slides": [
+  {
+   "icons": [
+    "Laptop",
+    "Hotel"
+   ],
+   "kicker": "Parents",
+   "head": "Online first. *Hotel next.*",
+   "body": "Here's how the path from laptop to hotel works.",
+   "bm": "Dari komputer riba ke hotel: begini caranya.",
+   "hsize": "m"
+  },
+  {
+   "icon": "Laptop",
+   "kicker": "Months 1–3 · Online",
+   "head": "On the *Qarya LMS.*",
+   "hsize": "m",
+   "rows": [
+    {
+     "n": "1",
+     "t": "Core module"
+    },
+    {
+     "n": "2",
+     "t": "One department module, with lecturer check-ins"
+    },
+    {
+     "n": "3",
+     "t": "Interview preparation"
+    }
+   ]
+  },
+  {
+   "icon": "Hotel",
+   "kicker": "Months 3–6 · Inside a hotel",
+   "head": "On-the-job training at *partner hotels.*",
+   "hsize": "m",
+   "body": "While your child finishes further elective modules."
+  },
+  {
+   "icon": "Key",
+   "kicker": "After probation",
+   "head": "A pathway to a *full-time offer.*",
+   "hsize": "m",
+   "body": "Entry: no formal qualifications needed. Must be able to speak English."
+  },
+  {
+   "icon": "Speech balloon",
+   "head": "Questions? *Let's talk.*",
+   "hsize": "m",
+   "wa": "Q243",
+   "after": "Qarya@akademi-ai.my · qarya.my"
+  }
+ ]
+}

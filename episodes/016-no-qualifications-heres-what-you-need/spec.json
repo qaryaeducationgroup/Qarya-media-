@@ -1,0 +1,283 @@
+{
+ "id": "016-no-qualifications-heres-what-you-need",
+ "title": "No qualifications Heres what you need",
+ "series": "QARYA INSTITUTE OF HOSPITALITY",
+ "post": "QEG-0246",
+ "cover_t": 1.8,
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ },
+ "scenes": [
+  {
+   "label": "WHAT YOU NEED",
+   "lines": [
+    [
+     "No qualifications? Here's what you actually need to start.",
+     "*No qualifications?* Here's what\nyou *actually need* to start.",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Page facing up",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1,
+     "anim": "drop",
+     "wobble": 5
+    },
+    {
+     "el": "text",
+     "t": "?",
+     "x": 700,
+     "y": 690,
+     "size": 120,
+     "at": 0.4,
+     "font": "serif",
+     "color": "gold"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "ENTRY",
+   "lines": [
+    [
+     "No formal qualifications needed.",
+     "*No formal qualifications*\nneeded.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Page facing up",
+     "x": 540,
+     "y": 800,
+     "size": 260,
+     "at": 0.0
+    },
+    {
+     "el": "check",
+     "x": 540,
+     "y": 820,
+     "size": 240,
+     "at": "formal"
+    },
+    {
+     "el": "burst",
+     "x": 540,
+     "y": 820,
+     "r": 240,
+     "color": "gold",
+     "at": "needed"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "ENGLISH",
+   "lines": [
+    [
+     "You must be able to speak English.",
+     "You must be able to\n*speak English.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Speech balloon",
+     "x": 380,
+     "y": 820,
+     "size": 280,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Left speech bubble",
+     "x": 720,
+     "y": 880,
+     "size": 240,
+     "at": "speak"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "EVERY MONTH",
+   "lines": [
+    [
+     "A new intake starts every month.",
+     "A *new intake*\nstarts *every month.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Spiral calendar",
+     "x": 540,
+     "y": 720,
+     "size": 260,
+     "at": 0.1
+    },
+    {
+     "el": "dots",
+     "n": 12,
+     "cols": 6,
+     "gap": 120,
+     "r": 26,
+     "x": 540,
+     "y": 1010,
+     "hl": 12,
+     "hl_at": "every",
+     "hl_dur": 1.0
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "MONTHS 1–3",
+   "lines": [
+    [
+     "Months one to three: you learn online on the Qarya LMS.",
+     "*Months 1–3:* online\non the *Qarya LMS.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Laptop",
+     "x": 540,
+     "y": 820,
+     "size": 340,
+     "at": 0.1,
+     "anim": "rise"
+    },
+    {
+     "el": "text",
+     "t": "ONLINE",
+     "x": 540,
+     "y": 1100,
+     "size": 30,
+     "at": "online",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "MONTHS 3–6",
+   "lines": [
+    [
+     "Months three to six: on-the-job training at partner hotels.",
+     "*Months 3–6:* on-the-job\ntraining at *partner hotels.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Laptop",
+     "x": 260,
+     "y": 860,
+     "size": 200,
+     "at": 0.1
+    },
+    {
+     "el": "arrow",
+     "from": [
+      380,
+      860
+     ],
+     "to": [
+      680,
+      860
+     ],
+     "bend": -0.25,
+     "color": "gold",
+     "at": 0.3,
+     "dur": 0.8
+    },
+    {
+     "el": "icon",
+     "name": "Hotel",
+     "x": 810,
+     "y": 840,
+     "size": 260,
+     "at": 0.6
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "AFTER PROBATION",
+   "lines": [
+    [
+     "After probation, there's a pathway to a full-time offer.",
+     "After probation: a pathway\nto a *full-time offer.*",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Key",
+     "x": 400,
+     "y": 840,
+     "size": 240,
+     "at": 0.1,
+     "wobble": 6
+    },
+    {
+     "el": "icon",
+     "name": "Door",
+     "x": 720,
+     "y": 820,
+     "size": 300,
+     "at": "pathway"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Ask us for the next start date. WhatsApp oh one nine, eight six two, six seven oh four, and type Q two four six.",
+     "",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q246",
+   "cta_size": 34
+  }
+ ]
+}

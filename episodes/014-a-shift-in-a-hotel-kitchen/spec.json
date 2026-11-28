@@ -1,0 +1,408 @@
+{
+ "id": "014-a-shift-in-a-hotel-kitchen",
+ "title": "A shift in a hotel kitchen",
+ "series": "EXAMPLE SHIFT",
+ "post": "QEG-0241",
+ "cover_t": 2.0,
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ },
+ "scenes": [
+  {
+   "label": "THE KITCHEN",
+   "lines": [
+    [
+     "A shift in a hotel kitchen, in forty seconds.",
+     "A shift in a *hotel kitchen,*\nin *40 seconds.*",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Pot of food",
+     "x": 540,
+     "y": 820,
+     "size": 340,
+     "at": 0.1,
+     "anim": "rise"
+    },
+    {
+     "el": "particles",
+     "kind": "dust",
+     "n": 10,
+     "box": [
+      340,
+      560,
+      740,
+      760
+     ],
+     "at": 0.3
+    },
+    {
+     "el": "text",
+     "t": "EVERY HOTEL RUNS ITS OWN WAY",
+     "x": 540,
+     "y": 590,
+     "size": 24,
+     "at": 0,
+     "font": "mono",
+     "tracking": 3,
+     "color": "dim",
+     "anim": "none"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "1 · BRIEFING",
+   "lines": [
+    [
+     "It starts with a briefing: today's menu, and anything special the team needs to know.",
+     "*Briefing:* today's menu, and\nanything *special* to know.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Clipboard",
+     "x": 540,
+     "y": 800,
+     "size": 320,
+     "at": 0.1
+    },
+    {
+     "el": "check",
+     "x": 540,
+     "y": 1100,
+     "size": 100,
+     "at": "special"
+    },
+    {
+     "el": "text",
+     "t": "EVERY HOTEL RUNS ITS OWN WAY",
+     "x": 540,
+     "y": 590,
+     "size": 24,
+     "at": 0,
+     "font": "mono",
+     "tracking": 3,
+     "color": "dim",
+     "anim": "none"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "2 · MISE EN PLACE",
+   "lines": [
+    [
+     "Then mise en place: every ingredient washed, cut and ready before the first order.",
+     "*Mise en place:* everything\nwashed, cut and *ready.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Kitchen knife",
+     "x": 260,
+     "y": 840,
+     "size": 220,
+     "at": 0.1,
+     "rot": -20
+    },
+    {
+     "el": "icon",
+     "name": "Carrot",
+     "x": 540,
+     "y": 840,
+     "size": 220,
+     "at": "washed"
+    },
+    {
+     "el": "icon",
+     "name": "Bowl with spoon",
+     "x": 820,
+     "y": 840,
+     "size": 220,
+     "at": "ready"
+    },
+    {
+     "el": "text",
+     "t": "EVERY HOTEL RUNS ITS OWN WAY",
+     "x": 540,
+     "y": 590,
+     "size": 24,
+     "at": 0,
+     "font": "mono",
+     "tracking": 3,
+     "color": "dim",
+     "anim": "none"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "3 · CLEAN AS YOU GO",
+   "lines": [
+    [
+     "Clean as you go: wash your hands, wipe down, and label and store food properly.",
+     "*Clean as you go:* wash, wipe,\n*label* and store food.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Soap",
+     "x": 300,
+     "y": 820,
+     "size": 230,
+     "at": 0.1
+    },
+    {
+     "el": "icon",
+     "name": "Sponge",
+     "x": 540,
+     "y": 820,
+     "size": 230,
+     "at": "wipe"
+    },
+    {
+     "el": "icon",
+     "name": "Label",
+     "x": 780,
+     "y": 820,
+     "size": 230,
+     "at": "label"
+    },
+    {
+     "el": "text",
+     "t": "EVERY HOTEL RUNS ITS OWN WAY",
+     "x": 540,
+     "y": 590,
+     "size": 24,
+     "at": 0,
+     "font": "mono",
+     "tracking": 3,
+     "color": "dim",
+     "anim": "none"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "4 · SERVICE",
+   "lines": [
+    [
+     "During service, every station works together, and each plate is checked at the pass before it goes out.",
+     "*Service:* every plate\nchecked at *the pass.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Bellhop bell",
+     "x": 300,
+     "y": 800,
+     "size": 220,
+     "at": 0.1,
+     "wobble": 6
+    },
+    {
+     "el": "icon",
+     "name": "Fork and knife with plate",
+     "x": 700,
+     "y": 860,
+     "size": 300,
+     "at": "station"
+    },
+    {
+     "el": "check",
+     "x": 700,
+     "y": 1110,
+     "size": 100,
+     "at": "checked"
+    },
+    {
+     "el": "text",
+     "t": "THE PASS",
+     "x": 540,
+     "y": 1220,
+     "size": 30,
+     "at": "pass",
+     "font": "mono",
+     "tracking": 4
+    },
+    {
+     "el": "text",
+     "t": "EVERY HOTEL RUNS ITS OWN WAY",
+     "x": 540,
+     "y": 590,
+     "size": 24,
+     "at": 0,
+     "font": "mono",
+     "tracking": 3,
+     "color": "dim",
+     "anim": "none"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "5 · CLEAN-DOWN",
+   "lines": [
+    [
+     "Afterwards: clean down, check stock, and hand over notes to the next shift.",
+     "*Clean down,* check stock,\nand *hand over.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Broom",
+     "x": 320,
+     "y": 840,
+     "size": 260,
+     "at": 0.1,
+     "wobble": 6
+    },
+    {
+     "el": "icon",
+     "name": "Notebook",
+     "x": 780,
+     "y": 840,
+     "size": 240,
+     "at": "hand"
+    },
+    {
+     "el": "arrow",
+     "from": [
+      480,
+      1080
+     ],
+     "to": [
+      700,
+      1080
+     ],
+     "bend": -0.2,
+     "color": "gold",
+     "at": "hand",
+     "dur": 0.6
+    },
+    {
+     "el": "text",
+     "t": "EVERY HOTEL RUNS ITS OWN WAY",
+     "x": 540,
+     "y": 590,
+     "size": 24,
+     "at": 0,
+     "font": "mono",
+     "tracking": 3,
+     "color": "dim",
+     "anim": "none"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "CULINARY ARTS",
+   "lines": [
+    [
+     "Culinary Arts is one of our specialisations.",
+     "*Culinary Arts* is a\nQIH specialisation.",
+     0.3
+    ],
+    [
+     "Three months online, then on-the-job training at partner hotels.",
+     "*Months 1–3 online,* then\ntraining at *partner hotels.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Laptop",
+     "x": 260,
+     "y": 860,
+     "size": 200,
+     "at": 0.1
+    },
+    {
+     "el": "arrow",
+     "from": [
+      380,
+      860
+     ],
+     "to": [
+      680,
+      860
+     ],
+     "bend": -0.25,
+     "color": "gold",
+     "at": "L1",
+     "dur": 0.8
+    },
+    {
+     "el": "icon",
+     "name": "Hotel",
+     "x": 810,
+     "y": 840,
+     "size": 260,
+     "at": "L1+0.5"
+    },
+    {
+     "el": "text",
+     "t": "EVERY HOTEL RUNS ITS OWN WAY",
+     "x": 540,
+     "y": 590,
+     "size": 24,
+     "at": 0,
+     "font": "mono",
+     "tracking": 3,
+     "color": "dim",
+     "anim": "none"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "WhatsApp oh one nine, eight six two, six seven oh four, and type Q two four one.",
+     "",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q241",
+   "cta_size": 34
+  }
+ ]
+}

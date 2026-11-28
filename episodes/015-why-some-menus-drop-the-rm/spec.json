@@ -1,0 +1,283 @@
+{
+ "id": "015-why-some-menus-drop-the-rm",
+ "title": "Why some menus drop the RM",
+ "series": "HOSPITALITY 101",
+ "post": "QEG-0244",
+ "cover_t": 2.2,
+ "voice": {
+  "sid": 3,
+  "speed": 1.12
+ },
+ "scenes": [
+  {
+   "label": "THE PRICE",
+   "lines": [
+    [
+     "Some restaurant menus leave out the currency sign.",
+     "Some menus leave out\nthe *currency sign.*",
+     0.3
+    ],
+    [
+     "There's a study behind it.",
+     "There's a *study* behind it.",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Receipt",
+     "x": 540,
+     "y": 820,
+     "size": 320,
+     "at": 0.1,
+     "anim": "rise"
+    },
+    {
+     "el": "text",
+     "t": "RM",
+     "x": 540,
+     "y": 1110,
+     "size": 90,
+     "at": 0.6,
+     "font": "serif"
+    },
+    {
+     "el": "cross",
+     "x": 680,
+     "y": 1100,
+     "size": 90,
+     "at": "study"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE EXPERIMENT",
+   "lines": [
+    [
+     "Researchers from Cornell tested it in a restaurant at the Culinary Institute of America.",
+     "Cornell researchers tested it\nin *one restaurant.*",
+     0.3
+    ],
+    [
+     "Two hundred and one tables each got one of three menus.",
+     "*201 tables,* each with\none of *three menus.*",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Fork and knife with plate",
+     "x": 540,
+     "y": 760,
+     "size": 280,
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "201 TABLES",
+     "x": 540,
+     "y": 1060,
+     "size": 34,
+     "at": "L1",
+     "font": "mono",
+     "tracking": 4
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THREE MENUS",
+   "lines": [
+    [
+     "The price was written as words, as a number with a dollar sign, or as a plain number.",
+     "*Words,* a number with a *sign,*\nor a *plain number.*",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "panel",
+     "x": 540,
+     "y": 680,
+     "w": 760,
+     "h": 130,
+     "tone": "dark",
+     "at": 0.1
+    },
+    {
+     "el": "text",
+     "t": "twenty dollars",
+     "x": 540,
+     "y": 680,
+     "size": 58,
+     "at": "words",
+     "font": "serif_i"
+    },
+    {
+     "el": "panel",
+     "x": 540,
+     "y": 860,
+     "w": 760,
+     "h": 130,
+     "tone": "dark",
+     "at": "sign"
+    },
+    {
+     "el": "text",
+     "t": "$20.00",
+     "x": 540,
+     "y": 860,
+     "size": 64,
+     "at": "sign",
+     "font": "serif"
+    },
+    {
+     "el": "panel",
+     "x": 540,
+     "y": 1040,
+     "w": 760,
+     "h": 130,
+     "tone": "dark",
+     "at": "plain",
+     "hl_at": "plain+0.4"
+    },
+    {
+     "el": "text",
+     "t": "*20*",
+     "x": 540,
+     "y": 1040,
+     "size": 72,
+     "at": "plain",
+     "font": "serif"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE RESULT",
+   "lines": [
+    [
+     "Tables with the plain numbers spent about eight percent more.",
+     "*Plain numbers:* about\n*8% more* spent.",
+     0.3
+    ],
+    [
+     "The other two menus made no difference to each other.",
+     "The other two: *no difference*\nbetween them.",
+     0.4
+    ]
+   ],
+   "elements": [
+    {
+     "el": "number",
+     "value": 8,
+     "from": 0,
+     "x": 540,
+     "y": 820,
+     "size": 220,
+     "prefix": "+",
+     "suffix": "%",
+     "dur": 1.0,
+     "at": 0.2
+    },
+    {
+     "el": "burst",
+     "x": 540,
+     "y": 820,
+     "r": 220,
+     "color": "gold",
+     "at": "percent"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "THE CATCH",
+   "lines": [
+    [
+     "It was one restaurant, and the researchers said it raises more questions than it answers.",
+     "*One restaurant.* More\n*questions* than answers.",
+     0.5
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Magnifying glass tilted left",
+     "x": 540,
+     "y": 820,
+     "size": 300,
+     "at": 0.1,
+     "wobble": 6
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "label": "FOR HOSPITALITY",
+   "lines": [
+    [
+     "For hospitality, it's a reminder: even the way a price is written is part of the guest experience.",
+     "Even *how a price is written*\nis part of the *experience.*",
+     0.6
+    ]
+   ],
+   "elements": [
+    {
+     "el": "icon",
+     "name": "Bellhop bell",
+     "x": 540,
+     "y": 820,
+     "size": 300,
+     "at": 0.1
+    },
+    {
+     "el": "particles",
+     "kind": "sparkle",
+     "n": 12,
+     "box": [
+      260,
+      620,
+      820,
+      1020
+     ],
+     "at": "experience"
+    }
+   ],
+   "camera": {
+    "push": 0.04,
+    "cy": 920
+   }
+  },
+  {
+   "type": "end",
+   "lines": [
+    [
+     "Follow Qarya, for more hospitality literacy.",
+     "Follow Qarya for more\n*Hospitality Literacy.*",
+     2.2
+    ]
+   ],
+   "cta": "WHATSAPP 019-862 6704  ·  TYPE Q244",
+   "cta_size": 34
+  }
+ ]
+}
